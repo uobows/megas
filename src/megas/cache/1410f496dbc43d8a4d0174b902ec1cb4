@@ -1,0 +1,387 @@
+O:9:"MagpieRSS":22:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:5:{i:0;a:7:{s:5:"title";s:4:"MyNI";s:4:"link";s:28:"http://bt48.com/project/myni";s:11:"description";s:6313:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Development</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>MyNI is a Government owned ?social web? site that is in the early stages of development, and is now being tested for a number of months among users in ?beta? (a test environment). This test will help government adapt and refine how the site works, so that it meets people?s needs and expectations. The site aims to alert people to information and services that will benefit them.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/MyNI_Case_header.jpg" width="1439" height="451" alt="MyNI" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><h2 class="headline">BACKGROUND</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://www.myni.life/">MyNI</a> aims to allow government departments and other organisations in Northern Ireland to collaboratively create and share content that will benefit people living here.</p>
+<p>By using digital marketing tools and techniques, <a href="https://www.myni.life/">MyNI</a> aims to pro-actively alert and engage people with online information and services, by making it:</p>
+<ul><li>Relevant for them to want to engage with the information and share it with others</li>
+<li>Easy for them to use public sector services and encourage others to use these services</li>
+</ul><p>It aims to ensure that people are getting correct and timely information about the environment, agriculture, health and other matters that are important to them.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-1" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/MyNI_003.jpg" width="1003" height="689" alt="MyNI" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">OBJECTIVES</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>The concept behind <a href="https://www.myni.life/">MyNI</a> radically alters the way that government communicates with the citizen. The only way to prove whether it works or not is to actually build the system and test it with real users.</p>
+<p><a href="https://www.myni.life/">MyNI </a>needed to allow:</p>
+<ul><li>Easy addition of text based content</li>
+<li>Clear editorial workflow</li>
+<li>Integration with multimedia sites</li>
+<li>Tie up with Facebook Pixel for enhanced targeting on Facebook</li>
+<li>Web analytics</li>
+</ul><p>At a minimum the site needed to be performant, responsive and engaging as it was going to be completing with other lifestyle sites. The Alpha site needed to be built and tested in ten weeks.</p>
+<p>
+ </p>
+</div></div></div><div  id="flexslider-2" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/MyNI_001.jpg" width="1200" height="1011" alt="MyNI" /></li>
+</ul></div>
+</div><div class="field-item even"><h2 class="headline">THE APPROACH</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>BT48 (through a BT/Neueda contract) built, tested, deployed and maintained a Drupal 8 installation as part of the wider project. Feargal O?Kane was the key point of contact for BT48 on the<a href="https://www.myni.life/"> MyNI </a>project.</p>
+<p>Feargal worked within the BT/NeuEda Agile framework to deliver a functional alpha that could be tested and refined within the 10 week project.</p>
+<p>Working with subject matter experts we developed a framework site that allowed content addition and testing of the concepts within the initial two week development sprint. Building off the findings of this user test we worked with Northern Ireland Civil Service design staff to develop a draft look and feel for <a href="https://www.myni.life/">MyNI.</a></p>
+<p>Working with content production partners we adapted Drupal to allow authors to add a range of content - text, video, imagery, audio, polls, quizzes. Working with the editorial team we developed a custom workflow system to ensure that the editorial team retain overall control over the content on the site.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-3" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/MyNI_002.jpg" width="1200" height="750" alt="MyNI" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">THE RESULT</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>User testing feedback during the project was extremely positive about the concept, content and execution. The alpha site was completed as a functioning website within the ten week alpha period and was chosen to progress to a beta project in November 2017.</p>
+<p>BT48 (through a BT/Neueda contract) are currently providing support for the beta phase and the live site  (<a href="https://www.myni.life">https://www.myni.life</a>) which launched just before Christmas.</p>
+<p>One of the most encouraging aspect of the project so far is the success in targeting users via Facebook to highlight Food Waste as an issue - with almost 40% of traffic on the site coming from promoting the site via Facebook.</p>
+<p> </p>
+</div></div></div></div></div></div></div>
+";s:7:"pubdate";s:31:"Wed, 24 Jan 2018 12:19:09 +0000";s:4:"guid";s:22:"644 at http://bt48.com";s:7:"summary";s:6313:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Development</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>MyNI is a Government owned ?social web? site that is in the early stages of development, and is now being tested for a number of months among users in ?beta? (a test environment). This test will help government adapt and refine how the site works, so that it meets people?s needs and expectations. The site aims to alert people to information and services that will benefit them.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/MyNI_Case_header.jpg" width="1439" height="451" alt="MyNI" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><h2 class="headline">BACKGROUND</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://www.myni.life/">MyNI</a> aims to allow government departments and other organisations in Northern Ireland to collaboratively create and share content that will benefit people living here.</p>
+<p>By using digital marketing tools and techniques, <a href="https://www.myni.life/">MyNI</a> aims to pro-actively alert and engage people with online information and services, by making it:</p>
+<ul><li>Relevant for them to want to engage with the information and share it with others</li>
+<li>Easy for them to use public sector services and encourage others to use these services</li>
+</ul><p>It aims to ensure that people are getting correct and timely information about the environment, agriculture, health and other matters that are important to them.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-1" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/MyNI_003.jpg" width="1003" height="689" alt="MyNI" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">OBJECTIVES</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>The concept behind <a href="https://www.myni.life/">MyNI</a> radically alters the way that government communicates with the citizen. The only way to prove whether it works or not is to actually build the system and test it with real users.</p>
+<p><a href="https://www.myni.life/">MyNI </a>needed to allow:</p>
+<ul><li>Easy addition of text based content</li>
+<li>Clear editorial workflow</li>
+<li>Integration with multimedia sites</li>
+<li>Tie up with Facebook Pixel for enhanced targeting on Facebook</li>
+<li>Web analytics</li>
+</ul><p>At a minimum the site needed to be performant, responsive and engaging as it was going to be completing with other lifestyle sites. The Alpha site needed to be built and tested in ten weeks.</p>
+<p>
+ </p>
+</div></div></div><div  id="flexslider-2" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/MyNI_001.jpg" width="1200" height="1011" alt="MyNI" /></li>
+</ul></div>
+</div><div class="field-item even"><h2 class="headline">THE APPROACH</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>BT48 (through a BT/Neueda contract) built, tested, deployed and maintained a Drupal 8 installation as part of the wider project. Feargal O?Kane was the key point of contact for BT48 on the<a href="https://www.myni.life/"> MyNI </a>project.</p>
+<p>Feargal worked within the BT/NeuEda Agile framework to deliver a functional alpha that could be tested and refined within the 10 week project.</p>
+<p>Working with subject matter experts we developed a framework site that allowed content addition and testing of the concepts within the initial two week development sprint. Building off the findings of this user test we worked with Northern Ireland Civil Service design staff to develop a draft look and feel for <a href="https://www.myni.life/">MyNI.</a></p>
+<p>Working with content production partners we adapted Drupal to allow authors to add a range of content - text, video, imagery, audio, polls, quizzes. Working with the editorial team we developed a custom workflow system to ensure that the editorial team retain overall control over the content on the site.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-3" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/MyNI_002.jpg" width="1200" height="750" alt="MyNI" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">THE RESULT</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>User testing feedback during the project was extremely positive about the concept, content and execution. The alpha site was completed as a functioning website within the ten week alpha period and was chosen to progress to a beta project in November 2017.</p>
+<p>BT48 (through a BT/Neueda contract) are currently providing support for the beta phase and the live site  (<a href="https://www.myni.life">https://www.myni.life</a>) which launched just before Christmas.</p>
+<p>One of the most encouraging aspect of the project so far is the success in targeting users via Facebook to highlight Food Waste as an issue - with almost 40% of traffic on the site coming from promoting the site via Facebook.</p>
+<p> </p>
+</div></div></div></div></div></div></div>
+";s:14:"date_timestamp";i:1516796349;}i:1;a:7:{s:5:"title";s:11:"CommunityNI";s:4:"link";s:35:"http://bt48.com/project/communityni";s:11:"description";s:7744:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Design / Development / Strategy &amp; UX / Mobile / Consultancy</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>CommunityNI required an updated fully responsive website with improved search functionality to promote the range of jobs, events and news stories within the voluntary and community sector within NI.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/ComNI_Case_header_0.jpg" width="1439" height="451" alt="CommunityNI" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><h2 class="headline">BACKGROUND</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://www.communityni.org/">CommunityNI</a> has been developed and maintained by <a href="http://www.nicva.org/">NICVA</a> - a membership and representative umbrella body for the voluntary and community sector in Northern Ireland ? as a resource for the voluntary, community and social enterprise sector.</p>
+<p><a href="https://www.communityni.org/">CommunityNI </a>has promoted the work of the voluntary and community sector in Northern Ireland for over a decade. As a platform to share news, jobs and events, <a href="https://www.communityni.org/">CommunityNI</a> is the sector?s opportunities hub. Users can add opportunities for individuals, for organisations and for the people their organisations serve and promote them on a site that receives seven million page views a year.</p>
+<p>NICVA approached BT48.com to:</p>
+<ul><li>Update the site from Drupal 6 to Drupal 8</li>
+<li>Migrate all the legacy data</li>
+<li>Make site more responsive</li>
+<li>Improve search functionality</li>
+<li>Modernise look and feel</li>
+<li>Update the branding</li>
+<li>Improve the User signup process</li>
+</ul></div></div></div><div  id="flexslider-4" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/ComNI_004_0.jpg" width="1003" height="689" alt="CommunityNI" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">OUR APPROACH</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Working closely with the <a href="https://www.communityni.org/">CommunityNI</a> Team we worked through the existing functionality and content to decide on how to enhance the site.  We rationalised the current system to remove unnecessary functionality and content.  We restructured the existing content to make it work better across devices</p>
+<p>Following intensive user research we created an updated brand and modernised the look and feel of the site.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-5" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/ComNI_001_0.jpg" width="1200" height="1011" alt="CommunityNI" /></li>
+</ul></div>
+</div><div class="field-item even"><h2 class="headline">Migration</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>A key requirement of the <a href="https://www.communityni.org/">CommunityNI</a> project was the migration of over 60000 pieces of content from an existing Drupal 6 into Drupal 8. The migration had to maintain around 5000 existing user accounts, 20000 files, tags and categories.</p>
+<p>Using the Migrate Module we were able to consistently update the Drupal site throughout the migration process - maintaining URL integrity and ensuring no loss in SEO rankings as a result of the migration.</p>
+<p> </p>
+</div></div></div></div><div class="field-item odd"><h2 class="headline">Enterprise Class Search</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>User research and analysis showed that the Jobs and Events sections were most used on <a href="https://www.communityni.org/">CommunityNI</a> but the search functionality did not prove satisfactory in these areas.  It was vital that the search engine on the site was fast, usable and accurate so the decision was made to move to Solr using Search API on Drupal 8.   </p>
+<p>Drupal?s core search is limited when your users are looking to carry out sophisticated searches. Using Solr to enhance the search capabilities of Drupal can deliver enterprise quality search for a fraction of the cost. Solr is the popular open source enterprise search platform from Apache. Its major features include:</p>
+<ul><li>powerful full-text search,</li>
+<li>hit highlighting,faceted search,</li>
+<li>?More like this? blocks,</li>
+<li>searching within documents (e.g., Word, PDF)</li>
+</ul><p>Solr powers the search and navigation features of many of the world's largest internet sites including Whitehouse.gov, Netflix, Instagram and AOL. By utilising the power of Solr with the flexibility of Drupal we ensured that CommunityNI is easy and efficient to search.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-6" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/ComNI_002_1.jpg" width="1200" height="1011" alt="CommunityNI" /></li>
+</ul></div>
+</div><div class="field-item even"><h2 class="headline">Improved User Signup</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Before the website update it was necessary for the <a href="https://www.communityni.org/">CommunityNI </a>team to spend a large amount of time ensuring that only legitimate (non spam) users were accessing the site.  As a core element of the project was to help the team work more efficiently we built a custom system to speed up the automatic addition of users of authenticated organisations.</p>
+<p>This has significantly reduced the manual interventions needed and allowed the team to focus on other areas.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-7" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/ComNI_003_0.jpg" width="1200" height="750" alt="CommunityNI" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">THE RESULT</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Our partnership with NICVA has resulted in significant improvements to CommunityNI:</p>
+<ul><li>A modern brand</li>
+<li>A responsive site that works well across multiple devices and platforms</li>
+<li>Increased search usageIncreased time spent on the site per user</li>
+<li>Enhanced user experience</li>
+<li>A secure platform for future development and growth.  </li>
+</ul></div></div></div></div></div></div></div>
+";s:7:"pubdate";s:31:"Wed, 24 Jan 2018 11:13:14 +0000";s:4:"guid";s:22:"643 at http://bt48.com";s:7:"summary";s:7744:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Design / Development / Strategy &amp; UX / Mobile / Consultancy</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>CommunityNI required an updated fully responsive website with improved search functionality to promote the range of jobs, events and news stories within the voluntary and community sector within NI.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/ComNI_Case_header_0.jpg" width="1439" height="451" alt="CommunityNI" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><h2 class="headline">BACKGROUND</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://www.communityni.org/">CommunityNI</a> has been developed and maintained by <a href="http://www.nicva.org/">NICVA</a> - a membership and representative umbrella body for the voluntary and community sector in Northern Ireland ? as a resource for the voluntary, community and social enterprise sector.</p>
+<p><a href="https://www.communityni.org/">CommunityNI </a>has promoted the work of the voluntary and community sector in Northern Ireland for over a decade. As a platform to share news, jobs and events, <a href="https://www.communityni.org/">CommunityNI</a> is the sector?s opportunities hub. Users can add opportunities for individuals, for organisations and for the people their organisations serve and promote them on a site that receives seven million page views a year.</p>
+<p>NICVA approached BT48.com to:</p>
+<ul><li>Update the site from Drupal 6 to Drupal 8</li>
+<li>Migrate all the legacy data</li>
+<li>Make site more responsive</li>
+<li>Improve search functionality</li>
+<li>Modernise look and feel</li>
+<li>Update the branding</li>
+<li>Improve the User signup process</li>
+</ul></div></div></div><div  id="flexslider-4" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/ComNI_004_0.jpg" width="1003" height="689" alt="CommunityNI" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">OUR APPROACH</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Working closely with the <a href="https://www.communityni.org/">CommunityNI</a> Team we worked through the existing functionality and content to decide on how to enhance the site.  We rationalised the current system to remove unnecessary functionality and content.  We restructured the existing content to make it work better across devices</p>
+<p>Following intensive user research we created an updated brand and modernised the look and feel of the site.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-5" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/ComNI_001_0.jpg" width="1200" height="1011" alt="CommunityNI" /></li>
+</ul></div>
+</div><div class="field-item even"><h2 class="headline">Migration</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>A key requirement of the <a href="https://www.communityni.org/">CommunityNI</a> project was the migration of over 60000 pieces of content from an existing Drupal 6 into Drupal 8. The migration had to maintain around 5000 existing user accounts, 20000 files, tags and categories.</p>
+<p>Using the Migrate Module we were able to consistently update the Drupal site throughout the migration process - maintaining URL integrity and ensuring no loss in SEO rankings as a result of the migration.</p>
+<p> </p>
+</div></div></div></div><div class="field-item odd"><h2 class="headline">Enterprise Class Search</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>User research and analysis showed that the Jobs and Events sections were most used on <a href="https://www.communityni.org/">CommunityNI</a> but the search functionality did not prove satisfactory in these areas.  It was vital that the search engine on the site was fast, usable and accurate so the decision was made to move to Solr using Search API on Drupal 8.   </p>
+<p>Drupal?s core search is limited when your users are looking to carry out sophisticated searches. Using Solr to enhance the search capabilities of Drupal can deliver enterprise quality search for a fraction of the cost. Solr is the popular open source enterprise search platform from Apache. Its major features include:</p>
+<ul><li>powerful full-text search,</li>
+<li>hit highlighting,faceted search,</li>
+<li>?More like this? blocks,</li>
+<li>searching within documents (e.g., Word, PDF)</li>
+</ul><p>Solr powers the search and navigation features of many of the world's largest internet sites including Whitehouse.gov, Netflix, Instagram and AOL. By utilising the power of Solr with the flexibility of Drupal we ensured that CommunityNI is easy and efficient to search.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-6" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/ComNI_002_1.jpg" width="1200" height="1011" alt="CommunityNI" /></li>
+</ul></div>
+</div><div class="field-item even"><h2 class="headline">Improved User Signup</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Before the website update it was necessary for the <a href="https://www.communityni.org/">CommunityNI </a>team to spend a large amount of time ensuring that only legitimate (non spam) users were accessing the site.  As a core element of the project was to help the team work more efficiently we built a custom system to speed up the automatic addition of users of authenticated organisations.</p>
+<p>This has significantly reduced the manual interventions needed and allowed the team to focus on other areas.</p>
+<p> </p>
+</div></div></div><div  id="flexslider-7" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/ComNI_003_0.jpg" width="1200" height="750" alt="CommunityNI" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">THE RESULT</h2><div class="field field-name-field-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Our partnership with NICVA has resulted in significant improvements to CommunityNI:</p>
+<ul><li>A modern brand</li>
+<li>A responsive site that works well across multiple devices and platforms</li>
+<li>Increased search usageIncreased time spent on the site per user</li>
+<li>Enhanced user experience</li>
+<li>A secure platform for future development and growth.  </li>
+</ul></div></div></div></div></div></div></div>
+";s:14:"date_timestamp";i:1516792394;}i:2;a:7:{s:5:"title";s:15:"Divided Society";s:4:"link";s:39:"http://bt48.com/project/divided-society";s:11:"description";s:6337:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Design / Development / Strategy &amp; UX / Mobile</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>The Linen Hall Library in Belfast required an immersive, user-friendly, future proof resource to showcase its Divided Society online resource to its maximum potential to include up to 200,000 pages, over 800 political posters, audio interviews, videos and educational toolkits for schools focused on key political events in the nineties.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/DS_Case_header_001.jpg" width="1439" height="451" alt="Divided Society" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="section-image"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/CNI_006.jpg" width="957" height="716" alt="Tablet &amp; Mobile views" /></div><h2 class="headline">Background</h2><p>Since the late 1960s the Linen Hall Library has been collecting material relating to the conflict in Northern Ireland.  Over the years the Library has become the repository for a huge amount of material relating to the subject and the subsequent peace process.</p>
+<p>?The ?<a href="https://www.dividedsociety.org">Divided Society</a>? project has digitised and catalogued a significant section of the Northern Ireland Political Collection.  Over 500 periodical titles relating to the conflict and peace process have been made available to search and consult. These are publications that were published between 1990?1998 in the UK, Ireland and further afield, and documented the issues that affected Northern Ireland during that period.</p>
+<p>The publications come from a variety of perspectives including community groups, voluntary groups, political parties, pressure groups, local and national government, and paramilitaries. Over eight hundred political posters have also been digitised.  ?<a href="https://www.dividedsociety.org/">Divided Society</a>? is a unique and important resource that explores a critical time in Northern Ireland?s history.</p>
+</div><div class="field-item odd"><div class="section-image"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/DS_004.jpg" width="1200" height="1011" alt="Search results" /></div><h2 class="headline">What was needed</h2><p>The Linen Hall Library approached BT48.com to:</p>
+<ul><li>Develop a fully responsive, immersive, innovative and engaging site</li>
+<li>Ensure optimum search functionality</li>
+<li>Create a huge and varied resource</li>
+<li>Develop the site across a range of operating systems</li>
+<li>Develop and implement highest quality, intuitive, safe, accessible, sustainable and responsive digital outputs</li>
+<li>Manage content securely</li>
+<li>Include audio/visual and social media integration</li>
+<li>Create User registration/login including subscription for non UK/Ireland residents</li>
+</ul></div><div class="field-item even"><div class="section-image"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/DS_005.jpg" width="1200" height="1011" alt="Poster listing" /></div><h2 class="headline">The Solution</h2><p>Working closely with the <a href="https://www.dividedsociety.org/">Divided Society</a> Project team we delivered a solution on time, on budget and that met the needs of users.</p>
+<p>We developed the <a href="https://www.dividedsociety.org/">Divided Society</a> brand, and look and feel of the site to ensure that it was attractive and usable for the diverse range of users. James was also responsible for ensuring that the brand elements were suitable across a range of media.</p>
+<p>The design process was carried out in close collaboration with Linen Hall Library. By getting a full understanding of each of the target audiences we created a design that appeals to all target audiences for the website - as highlighted during user testing.</p>
+<p>We built a system that allowed Linen Hall Library to add content from a Dropbox account into the Drupal-based system while also carrying out Optical Character Recognition and PDF creation to ensure that the final artefacts were searchable and available in the format the target audience expected.</p>
+<p>In addition, we also implemented a custom payment solution that utilises GeoIP functionality to ensure that UK and Irish users can get free access.</p>
+</div><div class="field-item odd"><div class="section-image"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/DS_001.jpg" width="1200" height="1011" alt="Essay" /></div><h2 class="headline">The Result</h2><p>The site launched on 22nd January 2018 on time and on budget. Other key outcomes of the project are:</p>
+<ul><li>Pre-launch sign-ups from multiple foreign universities to access the resource via the promotional site we developed in addition to the live resource</li>
+<li>Overwhelmingly positive user feedback via user testing we carried out with UK and US-based users with regard to:
+<ul><li>Design</li>
+<li>Content</li>
+<li>Functionality</li>
+</ul></li>
+<li>Development of promotional videos for the site based on user feedback from the user testing to allow Linen Hall Library to reuse content effectively across social media</li>
+<li>Robust architecture based on Drupal 8 and SOLR to provide enterprise-class search functionality that provides the flexibility to adapt the resource to the changing needs of the research and academic community.</li>
+<li>Over 1000 individual users signed up for access in the first 24 hours.</li>
+</ul></div></div></div></div>
+";s:7:"pubdate";s:31:"Tue, 23 Jan 2018 12:19:03 +0000";s:4:"guid";s:22:"642 at http://bt48.com";s:7:"summary";s:6337:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Design / Development / Strategy &amp; UX / Mobile</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>The Linen Hall Library in Belfast required an immersive, user-friendly, future proof resource to showcase its Divided Society online resource to its maximum potential to include up to 200,000 pages, over 800 political posters, audio interviews, videos and educational toolkits for schools focused on key political events in the nineties.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/DS_Case_header_001.jpg" width="1439" height="451" alt="Divided Society" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="section-image"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/CNI_006.jpg" width="957" height="716" alt="Tablet &amp; Mobile views" /></div><h2 class="headline">Background</h2><p>Since the late 1960s the Linen Hall Library has been collecting material relating to the conflict in Northern Ireland.  Over the years the Library has become the repository for a huge amount of material relating to the subject and the subsequent peace process.</p>
+<p>?The ?<a href="https://www.dividedsociety.org">Divided Society</a>? project has digitised and catalogued a significant section of the Northern Ireland Political Collection.  Over 500 periodical titles relating to the conflict and peace process have been made available to search and consult. These are publications that were published between 1990?1998 in the UK, Ireland and further afield, and documented the issues that affected Northern Ireland during that period.</p>
+<p>The publications come from a variety of perspectives including community groups, voluntary groups, political parties, pressure groups, local and national government, and paramilitaries. Over eight hundred political posters have also been digitised.  ?<a href="https://www.dividedsociety.org/">Divided Society</a>? is a unique and important resource that explores a critical time in Northern Ireland?s history.</p>
+</div><div class="field-item odd"><div class="section-image"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/DS_004.jpg" width="1200" height="1011" alt="Search results" /></div><h2 class="headline">What was needed</h2><p>The Linen Hall Library approached BT48.com to:</p>
+<ul><li>Develop a fully responsive, immersive, innovative and engaging site</li>
+<li>Ensure optimum search functionality</li>
+<li>Create a huge and varied resource</li>
+<li>Develop the site across a range of operating systems</li>
+<li>Develop and implement highest quality, intuitive, safe, accessible, sustainable and responsive digital outputs</li>
+<li>Manage content securely</li>
+<li>Include audio/visual and social media integration</li>
+<li>Create User registration/login including subscription for non UK/Ireland residents</li>
+</ul></div><div class="field-item even"><div class="section-image"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/DS_005.jpg" width="1200" height="1011" alt="Poster listing" /></div><h2 class="headline">The Solution</h2><p>Working closely with the <a href="https://www.dividedsociety.org/">Divided Society</a> Project team we delivered a solution on time, on budget and that met the needs of users.</p>
+<p>We developed the <a href="https://www.dividedsociety.org/">Divided Society</a> brand, and look and feel of the site to ensure that it was attractive and usable for the diverse range of users. James was also responsible for ensuring that the brand elements were suitable across a range of media.</p>
+<p>The design process was carried out in close collaboration with Linen Hall Library. By getting a full understanding of each of the target audiences we created a design that appeals to all target audiences for the website - as highlighted during user testing.</p>
+<p>We built a system that allowed Linen Hall Library to add content from a Dropbox account into the Drupal-based system while also carrying out Optical Character Recognition and PDF creation to ensure that the final artefacts were searchable and available in the format the target audience expected.</p>
+<p>In addition, we also implemented a custom payment solution that utilises GeoIP functionality to ensure that UK and Irish users can get free access.</p>
+</div><div class="field-item odd"><div class="section-image"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/DS_001.jpg" width="1200" height="1011" alt="Essay" /></div><h2 class="headline">The Result</h2><p>The site launched on 22nd January 2018 on time and on budget. Other key outcomes of the project are:</p>
+<ul><li>Pre-launch sign-ups from multiple foreign universities to access the resource via the promotional site we developed in addition to the live resource</li>
+<li>Overwhelmingly positive user feedback via user testing we carried out with UK and US-based users with regard to:
+<ul><li>Design</li>
+<li>Content</li>
+<li>Functionality</li>
+</ul></li>
+<li>Development of promotional videos for the site based on user feedback from the user testing to allow Linen Hall Library to reuse content effectively across social media</li>
+<li>Robust architecture based on Drupal 8 and SOLR to provide enterprise-class search functionality that provides the flexibility to adapt the resource to the changing needs of the research and academic community.</li>
+<li>Over 1000 individual users signed up for access in the first 24 hours.</li>
+</ul></div></div></div></div>
+";s:14:"date_timestamp";i:1516709943;}i:3;a:7:{s:5:"title";s:17:"Postcards Ireland";s:4:"link";s:41:"http://bt48.com/project/postcards-ireland";s:11:"description";s:5104:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Design / Development / Strategy &amp; UX / Mobile</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>At the press of a button the general public can access images from the Linen Hall?s extensive postcard collection and send them anywhere in the world from just £2.50. The web-based app can be accessed by any mobile device or computer thanks to a robust responsive design. With extensive integration with Third-Party APIs the app allows users to find exclusive content while giving the Linen Hall Library a potential revenue stream.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/work_image_002.jpg" width="1439" height="451" alt="Postcards Ireland" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><div  id="flexslider-8" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/PCI_001.jpg" width="1200" height="1011" alt="Desktop" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2>Background</h2><p>?The Linenhall Library Postcard Collection contains more than 6,000 images which capture Ireland in bygone days and gives a sense of what life was like in remote villages and towns over one hundred years ago. Topographical cards dominate the collection and almost every city, town and village in Ireland is featured. Social development in urban Ireland is also clearly captured in postcards depicting street scenes which illustrate the growth of cities such as Belfast, Dublin and Cork. From these historic images the viewer can trace changes in architecture, fashion and transport.</p>
+</div><div class="field-item even"><div  about="" typeof="" class="ds-1col entity entity-paragraphs-item paragraphs-item-testimonial view-mode-full  clearfix">
+
+  
+  <blockquote><p>BT48 were a pleasure to work with. During the bidding process, they provided us with a great, jargon-free, sensibly priced quote and fulfilled all their obligations. They created and designed a superb app with the material provided, kept in communication throughout the process, were open to our suggestions and always had solutions when any problems arose. After the project was completed they managed and maintained the resource to an excellent standard.</p>
+<cite>Gavin Carville, Linenhall Library</cite></blockquote></div>
+
+</div><div class="field-item odd"><h2>The Solution</h2><p>The Linen Hall Postcard App didn't need access to the native functionality of the phone or tablet so developing a web app was the best course of action. We built a robust backend to deliver content to the web app via an API. This structure allows the addition of native apps in the future if necessary.</p>
+<p>However, with the limited budget and timescale for this project we focused on the web app to allow the Linenhall Library to ensure that the key user experience elements of the project were addressed and allow as wide a range of users as possible to access the web app.?</p>
+<p>We developed an app with:</p>
+<ol><li>An interface that is intuitive and engaging</li>
+<li>An interface that is easily accessible to all users</li>
+<li>A way to easily showcase the broad range of content</li>
+<li>Multiple pathways to allow content to be found via a number of different approaches</li>
+<li>Seamless integration with a third-party ?print and ship? partner.</li>
+</ol></div><div class="field-item even"><h2>Integration</h2><p>We integrated the web app with Rackspace Files to handle the? large number of files and with Sincerely to handle the print and shipping. However, shortly after launch Sincerely closed their public API. Our robust architecture allowed us to easily slot in an alternative service with only two weeks notice - allowing an uninterrupted service when we switched to use Lob instead of Sincerely.</p>
+</div><div class="field-item odd"><h2>Results</h2><p>The app has proved to be a solid revenue generator for the Linenhall Library with users from around the world requesting and sending postcards from the collection.?</p>
+</div><div class="field-item even"><div  id="flexslider-9" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/PCI_002_0.jpg" width="738" height="565" alt="Tablet" /></li>
+</ul></div>
+</div></div></div></div>
+";s:7:"pubdate";s:31:"Fri, 06 Nov 2015 14:01:11 +0000";s:4:"guid";s:22:"640 at http://bt48.com";s:7:"summary";s:5104:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Design / Development / Strategy &amp; UX / Mobile</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>At the press of a button the general public can access images from the Linen Hall?s extensive postcard collection and send them anywhere in the world from just £2.50. The web-based app can be accessed by any mobile device or computer thanks to a robust responsive design. With extensive integration with Third-Party APIs the app allows users to find exclusive content while giving the Linen Hall Library a potential revenue stream.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/work_image_002.jpg" width="1439" height="451" alt="Postcards Ireland" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><div  id="flexslider-8" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/PCI_001.jpg" width="1200" height="1011" alt="Desktop" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2>Background</h2><p>?The Linenhall Library Postcard Collection contains more than 6,000 images which capture Ireland in bygone days and gives a sense of what life was like in remote villages and towns over one hundred years ago. Topographical cards dominate the collection and almost every city, town and village in Ireland is featured. Social development in urban Ireland is also clearly captured in postcards depicting street scenes which illustrate the growth of cities such as Belfast, Dublin and Cork. From these historic images the viewer can trace changes in architecture, fashion and transport.</p>
+</div><div class="field-item even"><div  about="" typeof="" class="ds-1col entity entity-paragraphs-item paragraphs-item-testimonial view-mode-full  clearfix">
+
+  
+  <blockquote><p>BT48 were a pleasure to work with. During the bidding process, they provided us with a great, jargon-free, sensibly priced quote and fulfilled all their obligations. They created and designed a superb app with the material provided, kept in communication throughout the process, were open to our suggestions and always had solutions when any problems arose. After the project was completed they managed and maintained the resource to an excellent standard.</p>
+<cite>Gavin Carville, Linenhall Library</cite></blockquote></div>
+
+</div><div class="field-item odd"><h2>The Solution</h2><p>The Linen Hall Postcard App didn't need access to the native functionality of the phone or tablet so developing a web app was the best course of action. We built a robust backend to deliver content to the web app via an API. This structure allows the addition of native apps in the future if necessary.</p>
+<p>However, with the limited budget and timescale for this project we focused on the web app to allow the Linenhall Library to ensure that the key user experience elements of the project were addressed and allow as wide a range of users as possible to access the web app.?</p>
+<p>We developed an app with:</p>
+<ol><li>An interface that is intuitive and engaging</li>
+<li>An interface that is easily accessible to all users</li>
+<li>A way to easily showcase the broad range of content</li>
+<li>Multiple pathways to allow content to be found via a number of different approaches</li>
+<li>Seamless integration with a third-party ?print and ship? partner.</li>
+</ol></div><div class="field-item even"><h2>Integration</h2><p>We integrated the web app with Rackspace Files to handle the? large number of files and with Sincerely to handle the print and shipping. However, shortly after launch Sincerely closed their public API. Our robust architecture allowed us to easily slot in an alternative service with only two weeks notice - allowing an uninterrupted service when we switched to use Lob instead of Sincerely.</p>
+</div><div class="field-item odd"><h2>Results</h2><p>The app has proved to be a solid revenue generator for the Linenhall Library with users from around the world requesting and sending postcards from the collection.?</p>
+</div><div class="field-item even"><div  id="flexslider-9" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/PCI_002_0.jpg" width="738" height="565" alt="Tablet" /></li>
+</ul></div>
+</div></div></div></div>
+";s:14:"date_timestamp";i:1446818471;}i:4;a:7:{s:5:"title";s:25:"?Culture Northern Ireland";s:4:"link";s:57:"http://bt48.com/project/%E2%80%8Bculture-northern-ireland";s:11:"description";s:7458:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Design / Development / Strategy &amp; UX / Mobile</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>?Culture Northern Ireland required a new responsive website with a reworked information architecture to highlight the range of artistic events happening throughout Northern Ireland. The site needed to tie in with third party event software and also handle Google Advertising and allow users to update their own information.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/cni_header.jpg" width="1439" height="451" alt="CNI" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><h2 class="headline">Background</h2><p>Culture NI is Northern Ireland's leading arts and cultural website, covering music, film, literature, heritage, sport, dance, theatre, the visual arts and much more besides.</p>
+<p>With thousands of articles, features, Q&amp;As, reviews, profiles, event listings and multimedia content, Culture NI is Northern Ireland's most popular arts and culture website, a unique and exciting resource for cultural information and arts marketing.</p>
+<p>For those searching for things to do in Northern Ireland in the arts and sports, or to take part in arts and cultural activities in Belfast, Derry, or any of the six counties of Northern Ireland, Culture NI is here for you.</p>
+<p>Culture Northern Ireland approached BT48 to:</p>
+<ul><li>create their new responsive website</li>
+<li>integrate the site with LineUp to handle their event management</li>
+<li>manage ad display using Google DoubleClick for Publishers</li>
+<li>migrate over 10000 articles from their legacy system</li>
+</ul></div><div class="field-item odd"><div  about="" typeof="" class="ds-1col entity entity-paragraphs-item paragraphs-item-testimonial view-mode-full  clearfix">
+
+  
+  <blockquote><p>When we launched our completely revamped website we were very happy with the way the site turned out, and our experience with the BT48 team. They took our old website with outdated layout, fonts,, non- responsive etc., and transformed it into a modern, flexible and attractive site.</p>
+<cite>David Lewis</cite></blockquote></div>
+
+</div><div class="field-item even"><div  id="flexslider-10" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/CNI_main.png" width="475" height="401" alt="CNI on Desktop" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">The Solution</h2><p>Working closely with the digital team at the Nerve Centre we restructured the content to reflect what users were looking for. Following intensive user research we created an updated brand and design guidelines to reflect the modern approach Culture Northern Ireland needed.</p>
+<p>The site was built in a mobile-first, responsive manner, with a very simple to understand navigation which works seamlessly on all device sizes - desktops, tablets, and mobiles.</p>
+<p>We built in a system for page layouts that allows Culture Northern Ireland to create a variety of custom page styles. This allows the site admins to publish their text, image and video content in a variety of ways, always communicating in the most effective manner on all devices.</p>
+<p><strong>Migration</strong></p>
+<p>A key requirement of the Culture Northern Ireland project was the migration of over 10,000 pieces of content from an existing legacy system into Drupal. The migration had to maintain existing user accounts, files, tags and categories. Using the Feeds Module we were able to consistently update the Drupal site during the 4 week migration process - maintaining URL integrity and ensuring no loss in SEO rankings as a result of the migration.</p>
+<p><strong>Enterprise class search</strong></p>
+<p>With an archive of content dating back over 12 years it was imperative that the search engine on the site was fast, usable and accurate. Drupal?s core search is limited when your users are looking to carry out sophisticated searches. Using Solr to enhance the search capabilities of Drupal can deliver enterprise quality search for a fraction of the cost. Solr is the popular open source enterprise search platform from Apache. Its major features include:</p>
+<ol><li>powerful full-text search,</li>
+<li>hit highlighting,</li>
+<li>faceted search,</li>
+<li>?More like this? blocks,</li>
+<li>searching within documents (e.g., Word, PDF)</li>
+</ol><p>Solr powers the search and navigation features of many of the world's largest internet sites including Whitehouse.gov, Netflix, Instagram and AOL. By utilising the power of Solr with the flexibility of Drupal we ensured that Culture Northern Ireland is easy and efficient to search.</p>
+<p><strong>Advertising integration</strong></p>
+<p>A central feature of the new Culture Northern Ireland website is the ability to monetise the site through online advertising. Culture Northern Ireland chose to use Google DoubleClick for Publishers as their advertising partner. We created features to more easily allow users to add specific ads and campaigns across sections and sub-sections of the site</p>
+</div><div class="field-item even"><div  about="" typeof="" class="ds-1col entity entity-paragraphs-item paragraphs-item-testimonial view-mode-full  clearfix">
+
+  
+  <blockquote><p>The team is a good mix of left and right brains. When we met with them to discuss the project, we were impressed with how easy they are to communicate with?just real, down to earth, approachable people that don&#039;t talk over your head with tech jargon.</p>
+<cite>David Lewis</cite></blockquote></div>
+
+</div><div class="field-item odd"><div  id="flexslider-11" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/CNI_mobile.png" width="143" height="250" alt="CNI on Mobile" /></li>
+<li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/CNI_tablet.png" width="262" height="200" alt="CNI Tablet" /></li>
+</ul></div>
+</div><div class="field-item even"><h2 class="headline">The Results</h2><p>Though the timeline was very tight, we were delighted to work with the Nerve Centre on the Culture Northern Ireland project. We restructured the information, added enterprise-class searching using the SOLR search engine and created a clean and modern front-end design for the website.</p>
+<p>When complete, Culture Northern Ireland told us that not alone had we made great changes to their workflows, allowing them to get much more work done, but also that their page views, users and visits from mobile devices all increased after the site relaunch.</p>
+</div></div></div></div>
+";s:7:"pubdate";s:31:"Fri, 16 Oct 2015 12:59:55 +0000";s:4:"guid";s:22:"631 at http://bt48.com";s:7:"summary";s:7458:"<div class="field field-name-field-type field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Expertise:&nbsp;</div><div class="field-items"><div class="field-item even">Design / Development / Strategy &amp; UX / Mobile</div></div></div><div class="field field-name-field-text-summary field-type-text-long field-label-above"><div class="field-label">Summary:&nbsp;</div><div class="field-items"><div class="field-item even"><p>?Culture Northern Ireland required a new responsive website with a reworked information architecture to highlight the range of artistic events happening throughout Northern Ireland. The site needed to tie in with third party event software and also handle Google Advertising and allow users to update their own information.</p>
+</div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Main Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/images/main/cni_header.jpg" width="1439" height="451" alt="CNI" /></div></div></div>
+<div class="paragraphs-items paragraphs-items-field-sections paragraphs-items-field-sections-full paragraphs-items-full">
+  <div class="field field-name-field-sections field-type-paragraphs field-label-above"><div class="field-label">Sections:&nbsp;</div><div class="field-items"><div class="field-item even"><h2 class="headline">Background</h2><p>Culture NI is Northern Ireland's leading arts and cultural website, covering music, film, literature, heritage, sport, dance, theatre, the visual arts and much more besides.</p>
+<p>With thousands of articles, features, Q&amp;As, reviews, profiles, event listings and multimedia content, Culture NI is Northern Ireland's most popular arts and culture website, a unique and exciting resource for cultural information and arts marketing.</p>
+<p>For those searching for things to do in Northern Ireland in the arts and sports, or to take part in arts and cultural activities in Belfast, Derry, or any of the six counties of Northern Ireland, Culture NI is here for you.</p>
+<p>Culture Northern Ireland approached BT48 to:</p>
+<ul><li>create their new responsive website</li>
+<li>integrate the site with LineUp to handle their event management</li>
+<li>manage ad display using Google DoubleClick for Publishers</li>
+<li>migrate over 10000 articles from their legacy system</li>
+</ul></div><div class="field-item odd"><div  about="" typeof="" class="ds-1col entity entity-paragraphs-item paragraphs-item-testimonial view-mode-full  clearfix">
+
+  
+  <blockquote><p>When we launched our completely revamped website we were very happy with the way the site turned out, and our experience with the BT48 team. They took our old website with outdated layout, fonts,, non- responsive etc., and transformed it into a modern, flexible and attractive site.</p>
+<cite>David Lewis</cite></blockquote></div>
+
+</div><div class="field-item even"><div  id="flexslider-10" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/CNI_main.png" width="475" height="401" alt="CNI on Desktop" /></li>
+</ul></div>
+</div><div class="field-item odd"><h2 class="headline">The Solution</h2><p>Working closely with the digital team at the Nerve Centre we restructured the content to reflect what users were looking for. Following intensive user research we created an updated brand and design guidelines to reflect the modern approach Culture Northern Ireland needed.</p>
+<p>The site was built in a mobile-first, responsive manner, with a very simple to understand navigation which works seamlessly on all device sizes - desktops, tablets, and mobiles.</p>
+<p>We built in a system for page layouts that allows Culture Northern Ireland to create a variety of custom page styles. This allows the site admins to publish their text, image and video content in a variety of ways, always communicating in the most effective manner on all devices.</p>
+<p><strong>Migration</strong></p>
+<p>A key requirement of the Culture Northern Ireland project was the migration of over 10,000 pieces of content from an existing legacy system into Drupal. The migration had to maintain existing user accounts, files, tags and categories. Using the Feeds Module we were able to consistently update the Drupal site during the 4 week migration process - maintaining URL integrity and ensuring no loss in SEO rankings as a result of the migration.</p>
+<p><strong>Enterprise class search</strong></p>
+<p>With an archive of content dating back over 12 years it was imperative that the search engine on the site was fast, usable and accurate. Drupal?s core search is limited when your users are looking to carry out sophisticated searches. Using Solr to enhance the search capabilities of Drupal can deliver enterprise quality search for a fraction of the cost. Solr is the popular open source enterprise search platform from Apache. Its major features include:</p>
+<ol><li>powerful full-text search,</li>
+<li>hit highlighting,</li>
+<li>faceted search,</li>
+<li>?More like this? blocks,</li>
+<li>searching within documents (e.g., Word, PDF)</li>
+</ol><p>Solr powers the search and navigation features of many of the world's largest internet sites including Whitehouse.gov, Netflix, Instagram and AOL. By utilising the power of Solr with the flexibility of Drupal we ensured that Culture Northern Ireland is easy and efficient to search.</p>
+<p><strong>Advertising integration</strong></p>
+<p>A central feature of the new Culture Northern Ireland website is the ability to monetise the site through online advertising. Culture Northern Ireland chose to use Google DoubleClick for Publishers as their advertising partner. We created features to more easily allow users to add specific ads and campaigns across sections and sub-sections of the site</p>
+</div><div class="field-item even"><div  about="" typeof="" class="ds-1col entity entity-paragraphs-item paragraphs-item-testimonial view-mode-full  clearfix">
+
+  
+  <blockquote><p>The team is a good mix of left and right brains. When we met with them to discuss the project, we were impressed with how easy they are to communicate with?just real, down to earth, approachable people that don&#039;t talk over your head with tech jargon.</p>
+<cite>David Lewis</cite></blockquote></div>
+
+</div><div class="field-item odd"><div  id="flexslider-11" class="flexslider">
+  <ul class="slides"><li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/CNI_mobile.png" width="143" height="250" alt="CNI on Mobile" /></li>
+<li><img typeof="foaf:Image" src="http://bt48.com/sites/default/files/CNI_tablet.png" width="262" height="200" alt="CNI Tablet" /></li>
+</ul></div>
+</div><div class="field-item even"><h2 class="headline">The Results</h2><p>Though the timeline was very tight, we were delighted to work with the Nerve Centre on the Culture Northern Ireland project. We restructured the information, added enterprise-class searching using the SOLR search engine and created a clean and modern front-end design for the website.</p>
+<p>When complete, Culture Northern Ireland told us that not alone had we made great changes to their workflows, allowing them to get much more work done, but also that their page views, users and visits from mobile devices all increased after the site relaunch.</p>
+</div></div></div></div>
+";s:14:"date_timestamp";i:1445000395;}}s:7:"channel";a:4:{s:5:"title";s:4:"BT48";s:4:"link";s:15:"http://bt48.com";s:8:"language";s:2:"en";s:7:"tagline";N;}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:15:"source_encoding";s:5:"UTF-8";}

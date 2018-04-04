@@ -1,0 +1,259 @@
+O:9:"MagpieRSS":23:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:10:{i:0;a:9:{s:6:"author";s:7:"
+			
+		";s:11:"author_name";s:13:"Nick Calafato";s:9:"published";s:20:"2014-01-29T13:59:24Z";s:7:"updated";s:20:"2014-01-29T14:33:54Z";s:5:"title";s:26:"Did Someone Say On Demand?";s:4:"link";s:56:"http://blog.last.fm/2014/01/29/did-someone-say-on-demand";s:2:"id";s:93:"tag:blog.last.fm,2014-01-29:59ab5fd5ebdd7507425a613a80c0101f/a384a00608e8943819d7f8ef77aaf181";s:12:"atom_content";s:1862:"
+<p>We?ve always strived to make Last.fm as relevant to your music life as possible. Whatever you?re listening to and wherever you?re listening to it from &#8211; we know about it. There has however been one gap; the inability to play whatever you want by whoever you want directly on Last.fm. This has now changed.</p>
+
+	<p>We?ve teamed up with Spotify to bring their entire catalogue, on demand, to the world?s leading music recommendation service. Whether it be your own profile page, artist pages or album pages &#8211; if Spotify has it, you can play it and control it on Last.fm via the Spotify playbar at the bottom of the screen. Using your Spotify account (premium or free) you can listen to any track simply by pressing the play button. This will load all tracks on a Last.fm page as a playlist in Spotify.</p>
+
+	<p><img src="http://blog.last.fm/images/273.jpg" alt="" /></p>
+
+	<p>This new feature brings a depth to Last.fm like never before and gives you a much richer listening experience. The availability of over 20 million tracks at your fingertips allows you to listen to full albums as well as rediscover your scrobbling history &#8211; listen to your loved tracks, past charts and more.</p>
+
+	<p><img src="http://blog.last.fm/images/272.jpg" alt="" /></p>
+
+	<p>This latest collaboration builds on an already successful partnership between the two services, which includes the highly successful Last.fm app on Spotify.</p>
+
+	<p>As with any new integration there are of course some known issues, so please bear with us! You can find out about them <a href="http://www.last.fm/forum/21713/_/2222431">here</a> and you can leave your feedback in the forums <a href="http://www.last.fm/forum/21717/_/2222432">here</a></p>
+
+	<p>We?re hugely excited to bring this new functionality to Last.fm and can?t wait to see what you think. </p>
+
+	<p>Enjoy!</p>
+";s:7:"summary";s:320:"
+<p>We?ve always strived to make Last.fm as relevant to your music life as possible. Whatever you?re listening to and wherever you?re listening to it from &#8211; we know about it. There has however been one gap; the inability to play whatever you want by whoever you want directly on Last.fm. This has now changed.</p>
+";}i:1;a:8:{s:6:"author";s:7:"
+			
+		";s:11:"author_name";s:12:"Paul Blunden";s:9:"published";s:20:"2013-06-24T13:57:08Z";s:7:"updated";s:20:"2013-06-24T13:57:08Z";s:5:"title";s:25:"Welcome to your new home!";s:4:"link";s:55:"http://blog.last.fm/2013/06/24/welcome-to-your-new-home";s:2:"id";s:93:"tag:blog.last.fm,2013-06-24:59ab5fd5ebdd7507425a613a80c0101f/b2a839416462791e0762695857570704";s:12:"atom_content";s:2749:"
+<p>We?re always striving to give you the best possible experience from the moment you arrive on Last.fm. It?s important to us that the most interesting content is easy to find and looking sharp. Last week, we released an update with some significant improvements to the <a href="https://www.last.fm/login?backto=/home">user home page</a>, one of the most useful but overlooked pages on Last.fm.</p>
+
+	<p><img src="http://blog.last.fm/images/268.jpg" alt="" /></p>
+
+	<p>The redesigned home page features the same great content, but reorganised and given a much needed facelift. Your recommendations are now featured front and centre, with bigger images and a neat new layout. There?s also a new library section in the right hand column that gives an overview of your personal stats and recent activity. The changes aren?t all on the surface though; your <a href="https://www.last.fm/login?backto=/home/newreleases">new releases</a>, <a href="https://www.last.fm/login?backto=/events">events</a>, and <a href="https://www.last.fm/login?backto=/home/freemp3s">free downloads</a> recommendations are now better quality, displayed more intelligently (based on your recent listening habits) and programmed to shuffle on each visit to the page. It?s never been easier to discover new music!</p>
+
+	<p>So, what if you?ve just joined Last.fm? Some of the most exciting changes are only apparent when you?ve got a brand new account. In this case, the redesigned home page helps to welcome you to the world of Last.fm with a simpler design and clear messaging about how to get your first recommendations and start scrobbling.</p>
+
+	<p>The improvements for new users don?t stop there &#8211; we?ve also updated our sign-up experience. Back in April we introduced a new account setup process which includes 3 simple steps. New users are guided through <a href="http://www.last.fm/start/library">starting their library</a>, <a href="http://www.last.fm/start/scrobbling">setting up scrobbling</a>, and <a href="http://www.last.fm/start/profile">completing their profile</a>, before arriving on their home page with music and event recommendations ready and waiting. You can always revisit these steps, so if you haven?t seen them yet, check them out &#8211; the <a href="http://www.last.fm/start/library">library builder</a> is a lot of fun to play with!</p>
+
+	<p><img src="http://blog.last.fm/images/269.jpg" alt="" /></p>
+
+	<p>In the coming weeks we?ll be making further improvements to the new home page, including the ability to dismiss recommendations. As always, we?re keen to hear your feedback on the changes we make and new features we introduce &#8211; please <a href="http://www.last.fm/forum/21717/_/2209875">leave your feedback</a> on the forums.</p>
+";}i:2;a:8:{s:6:"author";s:7:"
+			
+		";s:11:"author_name";s:13:"Nick Calafato";s:9:"published";s:20:"2013-05-21T11:39:08Z";s:7:"updated";s:20:"2013-05-21T11:58:41Z";s:5:"title";s:44:"Love Music, Love Last.fm, Love Music Videos!";s:4:"link";s:71:"http://blog.last.fm/2013/05/21/love-music-love-lastfm-love-music-videos";s:2:"id";s:93:"tag:blog.last.fm,2013-05-21:59ab5fd5ebdd7507425a613a80c0101f/18e43971eaf2b1e54b1af0ef2e7e8bfb";s:12:"atom_content";s:1660:"
+<p>We know how much everyone loves music videos and so we thought it was about time we did a better job of surfacing these on Last.fm &#8211; making sure we continue to deliver the most complete music resource experience at your fingertips.</p>
+
+	<p>So today we&#8217;re pleased to announce a brand new partnership with our good friends over at <a href="http://www.muzu.tv/" target="_blank"><span class="caps">MUZU</span>.TV</a>, who will help us bring you over 90,000 music videos across Europe (with more countries to come very soon).</p>
+
+	<p>You&#8217;ll be able to play these videos from both the Artist page, where they&#8217;ll be accessible in the same order as the Top Tracks, and also on every Track page where there is video available.  So lots of places on the site to get your music video fix!</p>
+
+	<p><img src="http://www.telekin.co.uk/Last.fm/Promotions/wp-content/uploads/2013/05/Bastille-LastfmMuzu1-e1369132845751.jpg" alt="Bastille"></p>
+
+	<p>Does it <a href="http://www.last.fm/download" target="_blank">scrobble</a>? Absolutely. We&#8217;ve made sure that scrobbling is automatically configured whenever you watch through the <span class="caps">MUZU</span>.TV player on Last.fm (for logged in users), and so the more videos you watch, the better your Last.fm music recommendations become.  We&#8217;ll also be adding scrobbling to the <span class="caps">MUZU</span>.TV site soon, so you&#8217;ll also be able to scrobble <span class="caps">MUZU</span>.TV wherever you watch.</p>
+
+	<p>We&#8217;re super excited to have partnered with <span class="caps">MUZU</span>.TV &#8211; helping us bring you a richer experience.</p>
+
+	<p>Enjoy!</p>
+";}i:3;a:8:{s:6:"author";s:7:"
+			
+		";s:11:"author_name";s:13:"Michael Horan";s:9:"published";s:20:"2013-04-09T16:54:05Z";s:7:"updated";s:20:"2013-04-12T11:57:45Z";s:5:"title";s:28:"Update: Last.fm on Xbox LIVE";s:4:"link";s:57:"http://blog.last.fm/2013/04/09/update-lastfm-on-xbox-live";s:2:"id";s:93:"tag:blog.last.fm,2013-04-09:59ab5fd5ebdd7507425a613a80c0101f/9c23589ce9089478152b558ff31c2ed1";s:12:"atom_content";s:2977:"
+<p>In 2009 Last.fm was proud to partner with our friends at Microsoft to bring music discovery to Xbox Live.  Today we&#8217;re excited to announce a new update to the Last.fm app on the Xbox 360 platform.</p>
+
+	<p>The new Last.fm on Xbox <span class="caps">LIVE</span> application brings a dramatic facelift simplifying the interface, adding features and including our Originals video library for all to enjoy.</p>
+
+	<p><strong>Key Features</strong><br />
+?	Exclusive Last.fm video content<br />
+?	Kinect voice and gesture control<br />
+?	Fine tune your favourite stations<br />
+?	Full-screen high-quality artist images<br />
+?	Train Last.fm to discover music you?ll love<br />
+?	Share your music taste with friends</p>
+
+	<p><img src="http://blog.last.fm/images/267t.png" alt="" /></p>
+
+	<p><strong>Radio</strong><br />
+The radio options have not changed &#8211; you can still listen to <em>artist radio, tag radio, and personal stations (my library, my mix, my recommended)</em>, but now it&#8217;s easier to jump down the rabbit hole of discovery and launch related stations. Every track that plays shows relevant tags which can launch into a new radio experience. During playback, an artist info button helps you discover similar artists and allows you to launch a new station based on their unique sound.</p>
+
+	<p>We&#8217;ve also added a <em>&#8220;fine-tune&#8221;</em> option, accessible during playback of personal stations, which allows you to filter what you listen to. Want only your hip-hop recommendations, or heavy metal library tracks? You can do that! It&#8217;s a new and powerful way to give you greater control over what you hear!</p>
+
+	<p>We are also displaying <em>full-screen artist images</em> during playback, giving a cleaner and more beautiful visual experience. Tune in to your favourite station and let Last.fm take you on the best personalised music experience.</p>
+
+	<p><strong>Video</strong><br />
+With the inclusion of <a href="http://originals.last.fm/"><em>Last.fm&#8217;s Originals</em></a> video content, there are more ways to discover new music. Including exclusive performances and intimate interviews, Originals delivers a blend of new and established artists in unique settings. See live recordings by artists like Big Boi, Emeli Sandé, Minus the Bear, Bastille and Two Door Cinema Club. See exclusive interviews with Phoenix, Olly Murs, Jake Bugg, Ramona Falls and Jason Aldean. It&#8217;s a veritable buffet of amazingness.</p>
+
+	<p>Turn your TV into the world?s smartest jukebox with Last.fm, Xbox <span class="caps">LIVE</span> and Kinect. Discover new music from Last.fm?s 18 million tracks and watch hundreds of exclusive videos featuring the world?s hottest artists. The more you listen the smarter it gets.</p>
+
+	<p>To learn more about Last.fm on Xbox <span class="caps">LIVE</span>, visit our <a href="http://last.fm/hardware/xbox">hardware</a> and <a href="http://www.last.fm/group/Last.fm+on+Xbox+LIVE">group</a> page.</p>
+";}i:4;a:8:{s:6:"author";s:7:"
+			
+		";s:11:"author_name";s:5:"sunil";s:9:"published";s:20:"2013-04-01T08:50:55Z";s:7:"updated";s:20:"2013-04-01T09:02:34Z";s:5:"title";s:28:"Announcing Last.fm Unplugged";s:4:"link";s:58:"http://blog.last.fm/2013/04/01/announcing-lastfm-unplugged";s:2:"id";s:93:"tag:blog.last.fm,2013-03-25:59ab5fd5ebdd7507425a613a80c0101f/edd400438928f28b5e95482cacef6b65";s:12:"atom_content";s:2310:"
+<p>Hello dear users! Fresh on the heels of the <a href="http://blog.last.fm/2013/01/31/lastfm-desktop-scrobbler-released">all new desktop scrobbler</a> and <a href="http://blog.last.fm/2012/12/19/scrobbler-for-ios">Scrobbler for iOS</a>, we?ve been hard at work on a new service that we?re announcing today &#8211; Last.fm Unplugged!</p>
+
+	<p>We realise that despite mobile internet and smartphones, a lot of people often listen to tracks on other services that do not support scrobbling or are in places where it is not possible to scrobble via <a href="http://www.last.fm/group/Does+It+Scrobble">our many clients</a>. That is why we decided about eighteen months ago to develop a new service which can process all other scrobbles.</p>
+
+	<p><img src="http://blog.last.fm/images/266t.jpg" alt="" /></p>
+
+	<p>We?re in the process of partnering with <a href="http://www.moleskine.com/gb/">Moleskine</a> to produce a Last.fm branded notebook with a special Last.fm micro pencil. Unfortunately this isn?t available yet but until then all you need to do is print out this <a href="http://cdn.lst.fm/blog/posts/last.fm_unplugged_template.pdf">template</a>, fill out the songs that you listen to and send your completed sheets to <a href="http://www.last.fm/about/contact">Last.HQ</a>! </p>
+
+	<p>Examples of what you might like to use Last.fm Unplugged for include:
+	<ul>
+		<li>Setlists at gigs and festivals</li>
+		<li>Songs heard on the traditional radio (please don?t attempt to fill out your Unplugged notebook while driving!)</li>
+		<li>Elevator music</li>
+		<li>Street performers</li>
+		<li>Humming or whistling to yourself</li>
+	</ul></p>
+
+	<p>Once we receive your sheets, we?ll then attempt to scan them &#8211; and if that fails, use our troop of monkeys to manually enter your scrobbles. Scrobbles must be handwritten in order to prevent scrobble fraud. You?ll never miss another scrobble thanks to this game changing new service!</p>
+
+	<p>For all developers out there, Last.fm Unplugged is written in a combination of Visual Basic 6 and Lisp &#8211; combining the rapid turnaround time of <span class="caps">BASIC</span> languages with all the power of a list processing language. </p>
+
+	<p>You can download the template <a href="http://cdn.lst.fm/blog/posts/last.fm_unplugged_template.pdf">here</a>.</p>
+";}i:5;a:8:{s:6:"author";s:7:"
+			
+		";s:11:"author_name";s:6:"marcus";s:9:"published";s:20:"2013-02-19T15:46:45Z";s:7:"updated";s:20:"2013-02-19T15:46:45Z";s:5:"title";s:32:"All Our Tools Are Belong To You!";s:4:"link";s:62:"http://blog.last.fm/2013/02/19/all-our-tools-are-belong-to-you";s:2:"id";s:93:"tag:blog.last.fm,2013-02-19:59ab5fd5ebdd7507425a613a80c0101f/373ac4cfc3c14873d0722f2c5d3eb0f4";s:12:"atom_content";s:2928:"
+<p>Welcome to the second part of our Open Source series. Today we&#8217;re releasing <strong>moost</strong>, a <strong>C++ library</strong> with all the nice little tools and utilities our <span class="caps">MIR</span> team has developed over the past five years. If you&#8217;re a C++ developer yourself, you might notice that <em>moost</em> sounds quite similar to <a href="http://boost.org"><em>boost</em></a>, and that&#8217;s on purpose. <em>moost</em> is the <span class="caps">MIR</span> team&#8217;s <em>boost</em>, there is hardly a project in our codebase that doesn&#8217;t depend on one or more parts of <em>moost</em>.</p>
+
+	<p>There are a lot of different things in <em>moost</em>. Some are really simple, yet very helpful in day-to-day work, like the <code>which</code> template that allows you to use pairs (and containers storing pairs) more easily with standard algorithms; or <code>stringify</code>, a function template that turns complex objects into strings. Other parts are slightly more sophisticated: for example, <em>moost</em> contains the framework that is shared by all our backend services, and that allows you to write a daemonisable service with logging, a set of standard options and even a service shell that multiple users can connect to when the service is running, all in a few lines of code.</p>
+
+	<p>As our backend services are inherently multi-threaded, there&#8217;s also a bit of <strong>threading support</strong> in <em>moost</em>. For example, the <code>safe_shared_ptr</code> template is immensely useful for resources that are shared between threads and need to be updated atomically.</p>
+
+	<p>If you&#8217;re working with large, static datasets, you&#8217;ll probably find the <strong>memory mapped dataset</strong> classes interesting. They allow you to build large datasets (like gigabytes of data) of vectors, multimaps or dense hash maps that can be simply mapped into memory &#8212; and thus shared between different processes &#8212; and accessed very much like a constant standard container.</p>
+
+	<p><em>moost</em> also contains an abstraction for <strong>loading shared objects</strong> and instantiating objects defined inside these shared objects. It will take care of all the magic involved to avoid resource leaks.</p>
+
+	<p>There are more bits and bobs in there, like a simple client for the <a href="http://stomp.github.com/"><span class="caps">STOMP</span></a> protocol, hashing and message digest functions, wrappers for key-value stores, template metaprogramming helpers and even a complete logging framework. So <a href="http://github.com/lastfm/libmoost">check it out</a>, play with it and if you&#8217;ve got some nice tool to add, please contribute!</p>
+
+	<p>There&#8217;ll be more code coming up later this week that makes use of <em>moost</em>, so if you&#8217;re looking for some hands-on examples, stay tuned!</p>
+
+	<p><em>To be continued&#8230;</em></p>
+";}i:6;a:7:{s:6:"author";s:7:"
+			
+		";s:9:"published";s:20:"2013-02-18T17:44:25Z";s:7:"updated";s:20:"2013-02-18T17:46:13Z";s:5:"title";s:17:"Build me, please!";s:4:"link";s:46:"http://blog.last.fm/2013/02/18/build-me-please";s:2:"id";s:93:"tag:blog.last.fm,2013-02-18:59ab5fd5ebdd7507425a613a80c0101f/e252593b13e2401a1d72ed30a6829fdf";s:12:"atom_content";s:4202:"
+<p>Here at Last.fm we love Open Source. Most of the time we&#8217;re just using a lot of Open Source Software, sometimes we&#8217;re contributing changes or fixes back to existing projects, and sometimes we release our own software to the public. This week, we&#8217;ll be releasing some exciting projects to the C++ community. The first of these projects is a build system we&#8217;ve conceived for our C++ codebase and which has helped us a lot &#8212; and it might be useful for you, too!</p>
+
+	<p>Last.fm&#8217;s <span class="caps">MIR</span> team is responsible for maintaining more than a hundred libraries, tools and backend services, most of which are written in C++, although some projects are in Python, Perl or Java. Back in 2011, all these projects had to be built from one giant Subversion repository, they contained hard-coded relative paths to other projects they depended on, yet as developers we would still have to know all the dependencies and build them in the correct order to actually build the project we were interested in. Also, every project contained a lot of boilerplate code and over time, this code changed, so it could be substantially different between any two projects. All of this made it quite painful to build projects or set them up for continuous integration, let alone distribute them to our production servers.</p>
+
+	<p>As we were thinking about migrating our codebase to <a href="http://git-scm.com/">Git</a>, we wondered whether there was an easier way to build our projects. Our ideal solution at that point would have been a tool that allowed us build, test, install and package every project, regardless of the language it&#8217;s written in, with exactly the same command. We couldn&#8217;t find anything like that and so we decided to write our own tool, which we called <strong>mirbuild</strong> (for hopefully obvious reasons).</p>
+
+	<p><em>mirbuild</em> is a <strong>meta-build-system</strong>, which means it&#8217;s basically delegating the actual build process to other build systems, but hides this behind a common interface. It is just a set of Python libraries, so the actual build scripts are written in Python. For a simple project, such a build script (usually called <em>build.py</em>) looks like this:</p>
+
+<pre>  #!/usr/bin/env python
+  from mirbuild import *
+  project = CMakeProject(&#39;libcyclone&#39;)
+  project.depends(&#39;libmoost&#39;)
+  project.find(&#39;boost&#39;)
+  project.find(&#39;log4cxx&#39;)
+  project.version(&#39;include/cyclone/version.h&#39;,
+             namespace = [&#39;cyclone&#39;, &#39;version&#39;])
+  project.run()
+</pre>
+
+	<p>As you can guess from the class name, this project uses <em>CMake</em> under the hood. But if you just want to build the project, you don&#8217;t have to care. You just run</p>
+
+<pre>  ./build.py build
+</pre>
+
+	<p>and it &#8220;just works&#8221;. But <em>mirbuild</em> does a bit more than just forwarding commands to <em>CMake</em>. For example, it will create a file that controls compile flags and include and link paths of project dependencies. It will also create a version header for your project if you ask it to do so.</p>
+
+	<p>Here&#8217;s are some of mirbuild&#8217;s features:</p>
+
+	<ul>
+		<li>supports CMake (C/C++), Python, Thrift (C++/Python) and &#8220;simple&#8221; projects</li>
+		<li>can build, test, install and clean up projects</li>
+		<li>can resolve dependencies between projects</li>
+		<li>can create Debian packages</li>
+		<li>can build different configurations (release, debug, coverage) of a project</li>
+		<li>can run code coverage analysis tools</li>
+	</ul>
+
+	<p>Over the last one and a half years, <em>mirbuild</em> has saved us from a lot of grief and it has made building projects a lot of fun. Thanks to <em>mirbuild</em>, we&#8217;ve also simplified our continuous integration framework and have now got all our production packages built on disposable virtual machines (but that&#8217;s a different story). If you&#8217;re maintaining lots of C++ code and aren&#8217;t happy with how you&#8217;re building it, check it out, <a href="https://github.com/lastfm/python-mirbuild">it&#8217;s on Github</a>.</p>
+
+	<p><em>To be continued&#8230;</em></p>
+";}i:7;a:8:{s:6:"author";s:7:"
+			
+		";s:11:"author_name";s:8:"michaelc";s:9:"published";s:20:"2013-01-31T17:04:09Z";s:7:"updated";s:20:"2013-01-31T17:04:09Z";s:5:"title";s:35:"Last.fm Desktop Scrobbler Released!";s:4:"link";s:64:"http://blog.last.fm/2013/01/31/lastfm-desktop-scrobbler-released";s:2:"id";s:93:"tag:blog.last.fm,2013-01-31:59ab5fd5ebdd7507425a613a80c0101f/3fa33f9d6644b5ce239752557e0024ed";s:12:"atom_content";s:4923:"
+<p>Hello, scrobble fans! Were you wondering where your desktop app updates had gone? Well wonder no longer! With the last major version released back in 2007 (those were the days, eh?) you?d be forgiven for thinking there weren?t any more coming, but we?ve actually been hard at work on an update to bring us crashing into 2008, a little late.</p>
+
+	<p>We released this new desktop scrobbler as a beta a little under a year ago and have been spending the time since getting it ready for launch. A couple of weeks ago (15th Jan) that launch day finally arrived and we pushed it out to everyone on Windows, Mac, and Linux! If you?ve not already got it you can head over to our <a href="http://www.last.fm/download">download page</a> for a fresh copy.</p>
+
+	<p>Here&#8217;s a Youtube.com video of us reaching 200,000 authenticated users on the new app: <a href="https://www.youtube.com/watch?v=vy_VwcGazE4">https://www.youtube.com/watch?v=vy_VwcGazE4</a>. Just look at how much fun we?re having!</p>
+
+	<p>The app comes with a new design and some features we hope you?ll really love. There?s a now playing tab where information about your currently scrobbling track will show up, including related artists, tags, biography, and scrobble statistics. Tracks played from radio stations will also show you a little context as to why the track is being played. A scrobbles tab where you can see a history of what you?ve been scrobbling and find out more about those tracks. A profile tab where you can see your scrobble charts. A friends tab where you can see what your friends are listening to and start their library radios. There?s also a radio tab where you can start all your usual Last.fm radio stations including a history of your recent ones.</p>
+
+	<p>We?re looking at the app as a <i>baseline</i> with which we can add and improve upon. There?s been a few ideas bubbling away that we can?t wait to add, but for now the focus is stability. With a large change such as this there are bound to be teething troubles and we?ve been taking your feedback on the <a href="http://www.last.fm/forum/34905">client support forum</a> and making sure we address problems and implement anything we might have missed that you loved in the old app.</p>
+
+	<p>A reminder that, like our iOS and Android apps, the desktop Scrobbler is open source and hosted on our <a href="https://github.com/lastfm">Last.fm github page</a> (both the <a href="https://github.com/lastfm/liblastfm">liblastfm</a> and <a href="https://github.com/lastfm/lastfm-desktop">lastfm-desktop</a> repositories make up the desktop app) where you?ll also be able to find other things Last.fm have open sourced. If you?d like to get involved with development then head over there and fork us!</p>
+
+	<p>It?s been a long road getting to this point and I?d like to thank all the client team members, contributors, and believers past and present for making it happen. You know who you are and you?re all very wonderful!</p>
+
+<h2>Last.fm Scrobbler for Linux</h2>
+
+	<p>We at Last.fm love Linux. Not only does it power almost all of the server machines that bring Last.fm to you, it is also the operating system of choice of many of our developers at Last.HQ. For our desktop application Last.fm Scrobbler, Linux is a first class supported operating system. The source code is available on <a href="https://github.com/lastfm/lastfm-desktop">GitHub</a> if you want to have a go at building it yourself, but we also provide ready built packages for those of you who are using Debian or Ubuntu. Just go to <a href="http://apt.last.fm">http://apt.last.fm</a> and find out how to install them. Today we release an updated set of packages featuring the latest version of Last.fm scrobbler (2.1.33).</p>
+
+	<p><img src="http://blog.last.fm/images/264t.jpg" alt="" /></p>
+
+	<p>We are also proud to release official packages of Last.fm Scrobbler for the <a href="http://www.raspberrypi.org">Raspberry Pi</a> today. If you have not heard about Raspberry Pi, it is an ambitious project to bring better teaching of programming and the technology behind computers to children. The Raspberry Pi Foundation is a charity that has designed and developed a mini computer that <a href="http://amzn.to/VxINPc">costs less than £40</a> and allows not only children to dive into the world of computer programming. Being so cheap, the Raspberry Pi has also attracted many hackers to make new things based on this mini computer. Media centre solutions are already very popular, which is not surprising because the Raspberry Pi has a network interface and video and audio outputs. We now contribute our Last.fm client application to the Raspberry Pi universe. If you have a Raspberry Pi and are running the <a href="http://www.raspbian.org">Raspbian</a> operating system on it, then head over to <a href="http://apt.last.fm">http://apt.last.fm</a> quickly and install Last.fm Scrobbler for Raspberry Pi!</p>
+";}i:8;a:9:{s:6:"author";s:7:"
+			
+		";s:11:"author_name";s:13:"Michael Horan";s:9:"published";s:20:"2012-12-19T14:03:22Z";s:7:"updated";s:20:"2012-12-19T14:09:32Z";s:5:"title";s:17:"Scrobbler for iOS";s:4:"link";s:48:"http://blog.last.fm/2012/12/19/scrobbler-for-ios";s:2:"id";s:93:"tag:blog.last.fm,2012-12-19:59ab5fd5ebdd7507425a613a80c0101f/fe6e7ff253e21cff2b85071f933bd95e";s:12:"atom_content";s:2448:"
+<p>Ten years ago was a boon-time for MP3s. I remember ripping my first CD, thrilled with the prospect of storing my ever-expanding collection on a computer instead of taking up precious space in my cramped apartment. The shelves of CDs started collecting dust, my Discman gave way to MP3 players, iTunes was born and then the iPod allowed me to carry 1,000 songs in my pocket!</p>
+
+	<p><img src="http://blog.last.fm/images/259.png" alt="" /></p>
+
+	<p>Eleven years later, I have transferred my music library between many computers, over dozens of portable devices and now in the ether of a cloud. My digital library has been a constant companion, traveling the world and growing with me. I love my library!</p>
+
+	<p>Recent developments in streaming services are making the maintenance of a digital collection obsolete. Seemingly endless libraries are available for monthly rental, and internet radio services like Last.fm offer unlimited personalised streaming. There are so many new ways to listen to music now, that I sometimes forget about my carefully curated digital library.</p>
+
+	<p>It is with this in mind that the Scrobbler for iOS was created.</p>
+
+	<p>Introducing the Scrobbler for iOS, an iPhone and iPad application that not only natively scrobbles, but gives you several ways to re-discover your digital library.</p>
+
+	<p><img src="http://blog.last.fm/images/262.png" alt="" /></p>
+
+	<p>We?ve long known that scrobbling iPhones has not always been a seamless process, so we wanted to create an application that alleviates this pain. We also wanted to offer our users with something new, so we built <a href="http://blog.last.fm/2012/09/27/whats-cooking-in-the-lastfm-playlisting-lab">playlisting services</a> that get applied to your digital library. For the first time, the algorithms that power Last.fm Radio can now be applied to the libraries you?ve spent years curating. </p>
+
+	<p>Every track in your library can be used to discover other, similar tracks. We use the power of machine tags and the knowledge of social tags to help you re-connect with the music you love.</p>
+
+	<p>Download the app <a href="https://itunes.apple.com/app/scrobbler-for-ios/id585235199?mt=8">here</a> and <a href="http://www.last.fm/group/Scrobbler+for+iOS">join the group</a> to keep up to date with announcements, forums and help.</p>
+
+	<p><a href="http://blog.last.fm/images/260.png"><img src="http://blog.last.fm/images/263.png" alt="" /></a></p>
+";s:7:"summary";s:172:"
+<p>Introducing the Scrobbler for iOS, an iPhone and iPad application that not only natively scrobbles, but gives you several ways to re-discover your digital library.</p>
+";}i:9;a:8:{s:6:"author";s:7:"
+			
+		";s:11:"author_name";s:7:"davidaw";s:9:"published";s:20:"2012-12-18T18:08:01Z";s:7:"updated";s:20:"2012-12-19T10:50:23Z";s:5:"title";s:44:"So this is Christmas, and what have we done?";s:4:"link";s:73:"http://blog.last.fm/2012/12/18/so-this-is-christmas-and-what-have-we-done";s:2:"id";s:93:"tag:blog.last.fm,2012-12-18:59ab5fd5ebdd7507425a613a80c0101f/814addd5de4ced85d88138d08f7a3d6f";s:12:"atom_content";s:3385:"
+<p>Well since you asked, we&#8217;ve been playing with some Christmas scrobbling data to see how our users&#8217; listening habits change around the festive season. I created a data set of Christmas tracks based on the top tracks tagged with &#8220;christmas&#8221; which were released before scrobble 0 in 2002. This gave me list of &#8220;all time Christmas greats&#8221; which are unlikely to be particularly affected by annual variation. These include:</p>
+
+	<ul>
+		<li>Mariah Carey &#8211; All I Want for Christmas Is You</li>
+		<li>Bing Crosby &#8211; White Christmas</li>
+		<li>Wham! &#8211; Last Christmas</li>
+		<li>Frank Sinatra &#8211; Have Yourself a Merry Little Christmas</li>
+		<li>Band Aid &#8211;  Do They Know It&#8217;s Christmas?</li>
+		<li>Dean Martin &#8211; Let It Snow! Let It Snow! Let It Snow!</li>
+		<li>Brenda Lee &#8211; Rockin&#8217; Around The Christmas Tree</li>
+		<li>Bobby Helms &#8211; Jingle Bell Rock</li>
+		<li>The Pogues &#8211; Fairytale of New York</li>
+		<li>Andy Williams &#8211; It&#8217;s the Most Wonderful Time of the Year</li>
+	</ul>
+
+	<p>I think you&#8217;ll agree that they&#8217;re all songs that you hear a lot of during December and not a lot during the rest of the year.</p>
+
+	<p>With that in place, I attempted to answer an age old question suggested to me by our good friend and Last.fm founder <a href="http://www.last.fm/user/RJ">RJ</a>, &#8220;Does Christmas really get earlier every year?&#8221; &#8211; a question which refers to the perceptual creep of seasonal products, music and decoration further and further towards the summer each year. I normalised the scrobble volume in the run up to Christmas by the Christmas Eve volume for each year to yield a comparable listening curve for each year. I chose the point at which listening volume becomes 50% of the December 24th volume to call &#8220;the start of Christmas&#8221;, then compared that date across all the years for which we have complete and reliable scrobble data (2005-2011).</p>
+
+	<p>The result was a weak trend in the opposite direction, suggesting that in fact Christmas might in fact be getting later each year by as much as one day each year. This graph shows the difference between the listening curve for 2005 and 2011:</p>
+
+	<p><a href="http://blog.last.fm/images/258.png"><img src="http://blog.last.fm/images/258t.png" /></a></p>
+
+	<p>During the initial graphing for the above, <a href="http://www.last.fm/user/teabot">Elliot</a> noticed that without the 7-day moving average the graph looked a little like a Christmas tree on its side with the day-of-week variation creating the branches. Pursuing this I made a concept for a &#8220;Scrobble tree&#8221;, which I then handed to <a href="http://www.last.fm/user/grahamtodman">Graham</a> &#8211; one of our design team &#8211; and he worked his magic to produce this awesome Christmas card.</p>
+
+	<p><a href="http://blog.last.fm/images/257.png"><img src="http://blog.last.fm/images/257t.png" /></a></p>
+
+	<p>If that&#8217;s not enough festive cheer for you, then you should check out <a href="http://www.last.fm/christmas">last.fm/christmas</a> created by web developer <a href="http://www.last.fm/user/marekventur">Marek</a>. It shows data about the current Christmas music being listened to and a live indicator of what percentage Christmas it is right now.</p>
+
+	<p>Merry Christmas everybody!</p>
+";}}s:7:"channel";a:10:{s:5:"title";s:18:"Last.fm ? the Blog";s:8:"subtitle";s:38:"Music and Web Geekery from East London";s:9:"link_self";s:25:"http://blog.last.fm/atom/";s:4:"link";s:20:"http://blog.last.fm/";s:2:"id";s:54:"tag:blog.last.fm,2005:59ab5fd5ebdd7507425a613a80c0101f";s:9:"generator";s:11:"Textpattern";s:7:"updated";s:20:"2014-03-12T05:13:40Z";s:6:"author";s:10:"
+		
+		
+		
+";s:11:"author_name";s:13:"administrator";s:10:"author_uri";s:20:"http://blog.last.fm/";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:4:"Atom";s:12:"feed_version";N;s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:15:"source_encoding";s:5:"UTF-8";s:4:"etag";s:24:""jpd-1018867619.36069"
+";}

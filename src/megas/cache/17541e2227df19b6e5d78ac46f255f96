@@ -1,0 +1,402 @@
+O:9:"MagpieRSS":23:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:10:{i:0;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:33:"TrailheaDX Global Gathering 2017!";s:4:"link";s:64:"http://jessealtman.com/2017/07/trailheadx-global-gathering-2017/";s:2:"id";s:30:"http://jessealtman.com/?p=2349";s:7:"updated";s:20:"2017-07-30T16:03:01Z";s:9:"published";s:20:"2017-07-30T16:03:01Z";s:7:"summary";s:356:"On Thursday July 27th, my local user group, the Lehigh Valley Salesforce Developer Group, participated in the TrailheaDX Global Gathering #tdx17. TrailheaDX is Salesforce&#8217;s main developer conference for the year. While the main event occurred at the end of June, over the last few weeks, over 200 user groups from around the world have been [&#8230;]";s:12:"atom_content";s:3766:"<p>On Thursday July 27th, my local user group, the <a href="https://www.meetup.com/Lehigh-Valley-Salesforce-Developer-Group/events/241084612/" target="_blank">Lehigh Valley Salesforce Developer Group</a>, participated in the TrailheaDX Global Gathering <a href="https://twitter.com/search?q=%23TDX17" target="_blank">#tdx17</a>. <a href="https://developer.salesforce.com/trailheadx" target="_blank">TrailheaDX</a> is Salesforce&#8217;s main developer conference for the year. While the main event occurred at the end of June, over the last few weeks, over 200 user groups from around the world have been holding their own events as part of the TrailheaDX Global Gathering.</p>
+<p>Our event kicked off as we do each month, with some pizza, drinks, and great conversation. It was amazing to see the turnout for the global event. We had several new attendees and we hope they were intrigued enough to come back!</p>
+<p><a href="http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_184804.jpg"><img src="http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_184804-1024x768.jpg" width="615px" class="alignleft size-large wp-image-2357" srcset="http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_184804-1024x768.jpg 1024w, http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_184804-300x225.jpg 300w, http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_184804-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>After some great conversations, <a href="http://peterknolle.com/" target="_blank">Peter Knolle</a> (<a href="https://twitter.com/PeterKnolle" target="_blank">@PeterKnolle</a>) started the official meeting. He went over some key information, including watching a fantastic TrailheaDX &#8217;17 hype video! After that, everyone was excited to learn more.</p>
+<p><a href="http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_185549.jpg"><img src="http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_185549-1024x768.jpg" alt="" width="615px" class="alignleft size-large wp-image-2359" srcset="http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_185549-1024x768.jpg 1024w, http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_185549-300x225.jpg 300w, http://jessealtman.com/wp-content/uploads/2017/07/IMG_20170727_185549-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>The main focus of the meeting was around <a href="https://developer.salesforce.com/platform/dx" target="_blank">Salesforce DX</a>. <a href="http://www.wadewegner.com/" target="_blank">Wade Wegner</a> (<a href="https://twitter.com/WadeWegner" target="_blank">@WadeWegner</a>) did an enlightening session at TrailheaDX 2017 for an introduction to Salesforce DX. We watched that session together to learn more.</p>
+<p><iframe class='youtube-player' type='text/html' width='615' height='376' src='http://www.youtube.com/embed/Pf33nrsqZOc?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+<p>After watching the presentation, we discussed Salesforce DX and how it could be utilized. We also had some general conversation around how we use Salesforce and how to convince IT departments to invest on the platform. All in all, it was a fun evening. We closed the meeting up with a group photo before heading out for a few beers, some appetizers, and more discussion.</p>
+<p><a href="http://jessealtman.com/wp-content/uploads/2017/07/20368803_1591469490877541_2373092764330772407_o.jpg"><img src="http://jessealtman.com/wp-content/uploads/2017/07/20368803_1591469490877541_2373092764330772407_o.jpg" alt="" width="615px"/></a></p>
+";s:12:"link_replies";s:147:"http://jessealtman.com/2017/07/trailheadx-global-gathering-2017/#commentshttp://jessealtman.com/2017/07/trailheadx-global-gathering-2017/feed/atom/";}i:1;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:67:"Interesting Interaction Between inlineHelpText and JSINHTMLENCODE()";s:4:"link";s:97:"http://jessealtman.com/2017/04/interesting-interaction-between-inlinehelptext-and-jsinhtmlencode/";s:2:"id";s:30:"http://jessealtman.com/?p=2294";s:7:"updated";s:20:"2017-04-16T16:55:00Z";s:9:"published";s:20:"2017-04-16T16:55:00Z";s:7:"summary";s:374:"If you have ever worked on more complicated Javascript on the Salesforce platform, you may have utilized the JSINHTMLENCODE() function. According to the docs, the JSINHTMLENCODE() function: Encodes text and merge field values for use in JavaScript inside HTML tags by replacing characters that are reserved in HTML with HTML entity equivalents and inserting escape [&#8230;]";s:12:"atom_content";s:7622:"<p>If you have ever worked on more complicated Javascript on the Salesforce platform, you may have utilized the <a href="https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_variables_functions.htm" target="_blank"><code>JSINHTMLENCODE()</code></a> function. According to the docs, the JSINHTMLENCODE() function:</p>
+<blockquote><p>
+Encodes text and merge field values for use in JavaScript inside HTML tags by replacing characters that are reserved in HTML with HTML entity equivalents and inserting escape characters before unsafe JavaScript characters. <code>JSINHTMLENCODE(someValue)</code> is a convenience function that is equivalent to <code>JSENCODE(HTMLENCODE((someValue))</code>. That is, <code>JSINHTMLENCODE</code> first encodes someValue with <code>HTMLENCODE</code>, and then encodes the result with <code>JSENCODE</code>.
+</p></blockquote>
+<p>This is a very important function for protecting your application from <a href="https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)" target="_blank">Cross-site Scripting (XSS)</a> attacks. Cross-site Scripting attacks are done by using malicious scripts injected onto a page and having them execute. By utilizing a function like JSINTHMLENCODE, you escape the script functionality so that instead of having a piece of code run, it just outputs the script as text.</p>
+<h2>JSINHTMLENCODE() and inlineHelpText Oddity</h2>
+<p><code>JSINHTMLENCODE</code> and <code>inlineHelpText</code> have a bit of an awkward interaction. The easiest way to show those would be through an example. Let&#8217;s take a look at a very simple page I built to illustrate this problem. First off, I created a new object called Widget__c.</p>
+<p><a href="http://jessealtman.com/wp-content/uploads/2017/04/widget.png"><img src="http://jessealtman.com/wp-content/uploads/2017/04/widget.png" alt="" width="600" height="450"/></a></p>
+<p>On this object, there is a Dimensions__c field. The important part to note here is that the Dimensions__c field has help text specified, specifically &#8220;Dimensions for a widget contains the height by width (i.e. 10&#215;6)&#8221;.</p>
+<p><a href="http://jessealtman.com/wp-content/uploads/2017/04/dimensions-field.png"><img src="http://jessealtman.com/wp-content/uploads/2017/04/dimensions-field.png" alt="" width="600" height="334" /></a></p>
+<p>I&#8217;ve gone ahead and created a very simple Visualforce page that simply alerts the help text on the Dimension__c field when a link is clicked. The code looks like:</p>
+<div style="overflow-x:scroll;">
+<div style="width:850px;">
+<pre data-enlighter-language="html" class="EnlighterJSRAW">
+&lt;apex:page&gt;
+    &lt;script&gt;
+    	function showHelpText(){
+            var helpText = &#039;{!JSINHTMLENCODE($ObjectType.Widget__c.fields.Dimensions__c.inlineHelpText)}&#039;;
+            alert(helpText);
+        }
+    &lt;/script&gt;
+    &lt;apex:form&gt;
+        &lt;a onclick=&quot;showHelpText();&quot;&gt;Link&lt;/a&gt;
+    &lt;/apex:form&gt;
+&lt;/apex:page&gt;
+</pre>
+</div>
+</div>
+<p>This page looks like:</p>
+<p><a href="http://jessealtman.com/wp-content/uploads/2017/04/jsinhtmlencode-before-click.png"><img src="http://jessealtman.com/wp-content/uploads/2017/04/jsinhtmlencode-before-click.png" alt="" width="600" height="218" /></a></p>
+<p>And when you click the link:</p>
+<p><a href="http://jessealtman.com/wp-content/uploads/2017/04/link-clicked-with-helptext.png"><img src="http://jessealtman.com/wp-content/uploads/2017/04/link-clicked-with-helptext.png" alt="" width="600" height="216"/></a></p>
+<p>So, everything is working as we expect at this point, correct? We are pulling in help text, which could be manipulated with a malicious script, so we are protecting ourselves by utilizing <code>JSINTHMLENCODE()</code>. We correctly set the variable based on the help text on the Dimensions__c field. The Javascript also runs properly when we click the link. So, what&#8217;s the problem? The problem occurs once the help text is removed from the field. Let&#8217;s take a look at what happens if an admin decides they no longer want that help text.</p>
+<p>After deleting the help text, the page still seems to work just fine. I can run the page and the popup will be displayed with no value due to the fact that the help text is missing, however the problem occurs when you need to modify the page itself. Let&#8217;s go ahead and try to change the label of the link from &#8220;Link&#8221; to &#8220;Show me help text!&#8221;. The new code looks like:</p>
+<div style="overflow-x:scroll;">
+<div style="width:850px;">
+<pre data-enlighter-language="html" class="EnlighterJSRAW">
+&lt;apex:page&gt;
+    &lt;script&gt;
+    	function showHelpText(){
+            var helpText = &#039;{!JSINHTMLENCODE($ObjectType.Widget__c.fields.Dimensions__c.inlineHelpText)}&#039;;
+            alert(helpText);
+        }
+    &lt;/script&gt;
+    &lt;apex:form&gt;
+        &lt;a onclick=&quot;showHelpText();&quot;&gt;Show me help text!&lt;/a&gt;
+    &lt;/apex:form&gt;
+&lt;/apex:page&gt;
+</pre>
+</div>
+</div>
+<p>At this point, you would expect this to compile with no problem. However, you get the following error instead: <span style="color:red;"><code>Incorrect argument type for function 'JSINHTMLENCODE()'.</code></span></p>
+<p>What? This page just compiled with no problem. Why are we getting this error all of a sudden? Well, the problem is due to the fact that Salesforce is that <code>$ObjectType.Widget__c.fields.Dimensions__c.inlineHelpText</code> actually returns <code>null</code> at compile rather than an empty string. This causes a big problem for <code>JSINHTMLENCODE()</code> as <code>null</code> is not considered a valid value. So, how do we solve this problem? Well, you need a null check.</p>
+<div style="overflow-x:scroll;">
+<div style="width:850px;">
+<pre data-enlighter-language="html" class="EnlighterJSRAW">
+&lt;apex:page&gt;
+    &lt;apex:form&gt;
+        &lt;apex:variable var=&quot;helpText&quot;
+        	value=&quot;{!IF(ISNULL($ObjectType.Widget__c.fields.Dimensions__c.inlineHelpText),
+                   &#039; &#039;,
+                   $ObjectType.Widget__c.fields.Dimensions__c.inlineHelpText)}&quot;/&gt;
+        &lt;a onclick=&quot;showHelpText();&quot;&gt;Show me help text!&lt;/a&gt;
+        
+        &lt;script&gt;
+            function showHelpText(){
+                var helpTextAfterEncode = &#039;{!JSINHTMLENCODE(helpText)}&#039;;
+                alert(helpTextAfterEncode);
+            }
+        &lt;/script&gt;
+    &lt;/apex:form&gt;
+&lt;/apex:page&gt;
+</pre>
+</div>
+</div>
+<p>The page now compiles correctly and it provides the flexibility for your admin to be able to manipulate the help text without repercussions on future deploys.</p>
+<h2>Final Thoughts</h2>
+<p>To be honest, I believe this is a defect on the Salesforce platform, however after speaking with their support, that doesn&#8217;t seem to be the case. There is actually a good argument to be made on both sides. Technically, <code>inlineHelpText</code> returning <code>null</code> is valid and <code>null</code> doesn&#8217;t need to be an accepted parameter for <code>JSiNHTMLENCODE</code>. This is just the unfortunate side effect of how these pieces of functionality work together. The most important pieces to remember are that <code>inlineHelpText</code> returns <code>null</code> rather than an empty string when no help text is provided and <code>JSINHTMLENCODE()</code> will not compile with a null parameter passed into it. Be proactive to help avoid these issues and utilize null checks where possible. Good luck!</p>
+";s:12:"link_replies";s:213:"http://jessealtman.com/2017/04/interesting-interaction-between-inlinehelptext-and-jsinhtmlencode/#commentshttp://jessealtman.com/2017/04/interesting-interaction-between-inlinehelptext-and-jsinhtmlencode/feed/atom/";}i:2;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:54:"Simple Trick to Immediately Improve for New Developers";s:4:"link";s:86:"http://jessealtman.com/2017/03/simple-trick-to-immediately-improve-for-new-developers/";s:2:"id";s:30:"http://jessealtman.com/?p=2279";s:7:"updated";s:20:"2017-03-26T19:29:53Z";s:9:"published";s:20:"2017-03-26T19:29:53Z";s:7:"summary";s:348:"I&#8217;ve written before about writing clean code and being a software professional, both of which are large contributors to becoming a better developer. However, today I want to talk about 1 small thing new developers can do to immediately improve their capabilities in the eyes of their peers. That one thing is consistency! This might [&#8230;]";s:12:"atom_content";s:6611:"<p>I&#8217;ve written before about writing <a href="http://jessealtman.com/2014/08/clean-code-on-the-force-com-platform/" target="_blank">clean code</a> and being a <a href="http://jessealtman.com/2014/07/software-professionalism-on-the-force-com-platform/" target="_blank">software professional</a>, both of which are large contributors to becoming a better developer. However, today I want to talk about 1 small thing new developers can do to immediately improve their capabilities in the eyes of their peers. That one thing is consistency!</p>
+<p>This might seem like such a silly thing, but before you click away, hear me out. The most important part of software development tends to happen after the initial piece of functionality is written. The reality is a large part of an application&#8217;s cost is spent during maintenance. Part of this reality is that you will have to come back to the work you are doing now and relearn the code that you had written. This means it is incredibly important to make your code consistent, which has the benefit of making it easier to read and easier to modify. Let me give you an example.</p>
+<p>Imagine the company you work for sells flowers. You create a very simple page which allows you to create a flower order and add flowers to it. On your first attempt, this is how the controller code turns out:</p>
+<div style="overflow-x:scroll;">
+<div style="width:1000px;">
+<pre data-enlighter-language="java" class="EnlighterJSRAW">
+public with sharing class FlowerOrderController 
+{
+    private Flower_Order__c flowerOrder;
+    public List&lt;Flower&gt; availableFlowers{
+        get;
+        set;
+    }
+    
+	public FlowerOrderController(ApexPages.StandardController stdController)
+    {
+flowerOrder = (Flower_Order__c)stdController.getRecord();
+    }
+    
+    private void setAvailableFlowers(){
+        	availableFlowers = new List&lt;Flower&gt;();
+        List&lt;Flower__c&gt; flowersFromDb = [SELECT Id, Name FROM  Flower__c WHERE Is_Active__c = true];
+        for(Flower__c singleFlower:flowersFromDb){
+        availableFlowers.add(new Flower(singleFlower));
+        }
+    }
+    
+    public PageReference saveFlowerOrder(){
+        Savepoint sp = Database.setSavepoint();
+        try
+        {
+        insert flowerOrder;
+        List&lt;Flower_Order_Item__c&gt; selectedFlowers = new List&lt;Flower_Order_Item__c&gt;();
+        for(Flower flowerWrapper:availableFlowers){
+        if(flowerWrapper.isSelected){
+        selectedFlowers.add(new Flower_Order_Item__c(
+        Flower__c = flowerWrapper.singleFlower.Id, 
+Flower_Order__c = flowerOrder.Id
+        ));}}
+        
+        insert selectedFlowers;
+return new ApexPages.StandardController(flowerOrder).view();
+        }
+        catch(Exception ex)
+{
+        Database.rollback(sp);ApexPages.addMessages(ex);
+        }
+return null;
+    }
+    
+    public class Flower
+    {
+        public Flower__c   singleFlower {get;
+set;}
+public Boolean isSelected {get;set;}
+        
+        public Flower(Flower__c singleFlower)
+        {
+        this.singleFlower = singleFlower;
+        }}
+
+
+}
+</pre>
+</div>
+</div>
+<p>How many times have you seen something like this? This code will run just fine and it should do exactly what we expect. The problem is that it is difficult to read. This will make it very hard to modify in the future, as you have to relearn what the code does when you go to make a change. The most frustrating part of all of this? There is simply no reason for it. It is very easy to clean something like this up, and it provides a ton of value. New developers focus so much on just getting something to work, that once they do, they sometimes just stop to make sure it continues to work. They got the job done, right? Well, why not spend 5 minutes, clean up the file, and you can get something like this:</p>
+<div style="overflow-x:scroll;">
+<div style="width:1000px;">
+<pre data-enlighter-language="java" class="EnlighterJSRAW">
+public with sharing class FlowerOrderController {
+    private Flower_Order__c flowerOrder;
+    public List&lt;Flower&gt; availableFlowers {get;set;}
+    
+	public FlowerOrderController(ApexPages.StandardController stdController){
+        flowerOrder = (Flower_Order__c)stdController.getRecord();
+    }
+    
+    private void setAvailableFlowers(){
+        availableFlowers = new List&lt;Flower&gt;();
+        List&lt;Flower__c&gt; flowersFromDb = [
+            SELECT
+            	Id, Name
+            FROM
+            	Flower__c
+            WHERE
+            	Is_Active__c = true
+        ];
+        for(Flower__c singleFlower:flowersFromDb){
+            availableFlowers.add(new Flower(singleFlower));
+        }
+    }
+    
+    public PageReference saveFlowerOrder(){
+        Savepoint sp = Database.setSavepoint();
+        try{
+            insert flowerOrder;
+            List&lt;Flower_Order_Item__c&gt; selectedFlowers = new List&lt;Flower_Order_Item__c&gt;();
+            for(Flower flowerWrapper:availableFlowers){
+                if(flowerWrapper.isSelected){
+                    selectedFlowers.add(
+                        new Flower_Order_Item__c(
+                            Flower__c = flowerWrapper.singleFlower.Id, 
+                            Flower_Order__c = flowerOrder.Id
+                        )
+                    );
+                }
+            }
+            insert selectedFlowers;
+            
+            return new ApexPages.StandardController(flowerOrder).view();
+        }catch(Exception ex){
+            Database.rollback(sp);
+            ApexPages.addMessages(ex);
+        }
+        
+        return null;
+    }
+    
+    public class Flower{
+        public Flower__c singleFlower {get;set;}
+        public Boolean isSelected {get;set;}
+        
+        public Flower(Flower__c singleFlower){
+        	this.singleFlower = singleFlower;
+        }
+    }
+}
+</pre>
+</div>
+</div>
+<p>I didn&#8217;t change a single thing between those two examples, except for consistently formatting my code. That simple change, which only took about a minute or two, immediately improves the quality of the work I have done and makes it much easier to maintain in the future. Moral of the story is that it is important to make sure things are clean before you finish your work. Spending a few minutes to simply format your code, can help tremendously in the future. Once you get into the habit of constantly keeping it formatted, it will become second nature and you will immediately be viewed in a better light by your fellow devs. Enjoy!</p>
+";s:12:"link_replies";s:191:"http://jessealtman.com/2017/03/simple-trick-to-immediately-improve-for-new-developers/#commentshttp://jessealtman.com/2017/03/simple-trick-to-immediately-improve-for-new-developers/feed/atom/";}i:3;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:23:"ApexMocks with Stub API";s:4:"link";s:55:"http://jessealtman.com/2017/02/apexmocks-with-stub-api/";s:2:"id";s:30:"http://jessealtman.com/?p=2266";s:7:"updated";s:20:"2017-02-11T20:50:58Z";s:9:"published";s:20:"2017-02-11T20:50:58Z";s:7:"summary";s:333:"At Dreamforce &#8217;16, I gave a presentation with David Frudd and John Leen on the Stub API and how it works with ApexMocks. Apex provides a stub API for implementing a mocking framework. A mocking framework has many benefits. It can streamline and improve testing and help you create faster, more reliable tests. You can [&#8230;]";s:12:"atom_content";s:1815:"<p>At Dreamforce &#8217;16, I gave a presentation with <a href="https://twitter.com/frup42" target="_blank">David Frudd</a> and John Leen on the <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing_stub_api.htm" target="_blank">Stub API</a> and how it works with <a href="https://github.com/financialforcedev/fflib-apex-mocks" target="_blank">ApexMocks</a>.</p>
+<blockquote><p>Apex provides a stub API for implementing a mocking framework. A mocking framework has many benefits. It can streamline and improve testing and help you create faster, more reliable tests. You can use it to test classes in isolation, which is important for unit testing. Building your mocking framework with the stub API can also be beneficial because stub objects are generated at runtime. Because these objects are generated dynamically, you don?t have to package and deploy test classes. You can build your own mocking framework, or you can use one built by someone else.</p></blockquote>
+<p>I was honored to be able to speak at my first Dreamforce and my two co-presenters were fantastic to work with. If you aren&#8217;t familiar with this topic, please check out either the <a href="https://www.salesforce.com/video/297000/" target="_blank">Dreamforce &#8217;16 video</a> or watch the same presentation I gave a the <a href="https://www.meetup.com/Lehigh-Valley-Salesforce-Developer-Group/events/235132897/" target="_blank">Lehigh Valley Salesforce Developer Group</a></p>
+<p><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/tOeCZ3vRyAI?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;start=8&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+";s:12:"link_replies";s:129:"http://jessealtman.com/2017/02/apexmocks-with-stub-api/#commentshttp://jessealtman.com/2017/02/apexmocks-with-stub-api/feed/atom/";}i:4;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:37:"Beyond Trailhead &#8211; Apex Testing";s:4:"link";s:61:"http://jessealtman.com/2015/06/beyond-trailhead-apex-testing/";s:2:"id";s:30:"http://jessealtman.com/?p=2176";s:7:"updated";s:20:"2015-06-22T23:50:07Z";s:9:"published";s:20:"2015-06-23T10:45:55Z";s:7:"summary";s:354:"Trailhead is an interactive learning path through the basic building blocks of the Salesforce1 Platform. Test your knowledge of the platform while earning points and badges to celebrate your achievements. All of this is broken down into different modules, making it easy for every developer to learn Salesforce in a few hour chunks. This series [&#8230;]";s:12:"atom_content";s:4663:"<p><a href="https://developer.salesforce.com/trailhead" target="_blank">Trailhead</a> is an interactive learning path through the basic building blocks of the Salesforce1 Platform. Test your knowledge of the platform while earning points and badges to celebrate your achievements. All of this is broken down into different modules, making it easy for every developer to learn Salesforce in a few hour chunks. This series will follow a different module each post, giving a comprehensive analysis of the module. The focus of this post will be on expanding what is taught in the module into greater depth and taking your experience beyond Trailhead and into more actual Salesforce work.</p>
+<h2><a href="https://developer.salesforce.com/trailhead/force_com_dev_beginner/apex_testing/apex_testing_intro" target="_blank">Getting Started with Apex Unit Tests</a></h2>
+<p>This is a fantastic start to explaining unit tests. I think the fifteen minute estimate is valid, although the test scenario using <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_methods_system_date.htm" target="_blank"><code>Date</code></a> classes can be tricky for someone first learning unit tests. That may push it out past fifteen minutes. I&#8217;d suggest reading up on the Date class more and experimenting with it. While that wasn&#8217;t the focus on this specific piece, it can be trickier than other primitive data types, so it is good to get some practice.</p>
+<p>Outside of that, there were a few oddities that I noticed. One, the challenge asks for you to create <code>TestVerifyDate</code> yet the example always ended their classes with Test rather than prepending it. Either way is fine, but it is important to be consistent when writing your test classes. Find a good paradigm that works for you and stick with it. I&#8217;d also suggest consistently using <a href="http://en.wikipedia.org/wiki/CamelCase" target="_blank">camelCase</a>. Some of the code here did not always use it. You can choose your own formatting, but Apex typically uses camelCase so it wouldn&#8217;t be a bad idea to keep that in mind. Consistency is key to great development.</p>
+<h2><a href="https://developer.salesforce.com/trailhead/force_com_dev_beginner/apex_testing/apex_testing_triggers" target="_blank">Testing Apex Triggers</a></h2>
+<p><a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers.htm" target="_blank">Triggers</a> are an interesting aspect of Salesforce that can cause headaches if done improperly. This example is pretty straight forward, but I would highly consider following Salesforce&#8217;s own posted <a href="https://developer.salesforce.com/page/Trigger_Frameworks_and_Apex_Trigger_Best_Practices" target="_blank">Trigger Best Practices</a>. Specifically, the use of logic-less triggers, one trigger per object, etc. By using a framework like this, it will be much easier to breakdown where your logic exists in real world situations as well as properly test the implementations outside of a specific trigger.</p>
+<h2><a href="https://developer.salesforce.com/trailhead/force_com_dev_beginner/apex_testing/apex_testing_data" target="_blank">Creating Test Data for Apex Tests</a></h2>
+<p>It was a fantastic idea to call out the usage of a Test Utilities class for creating your data. That is a common mistake I see most new developers make (by not having one). I also thought the mention of branch coverage was a good idea. I felt this module was really good (despite some of the naming issues I mentioned above). I&#8217;d consider taking this to the next level by utilizing the new <a href="http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/rn_apex_test_setup_methods.htm" target="_blank"><code>@testSetup</code></a> annotation to encapsulate your data creation in a single location. I&#8217;d also consider more <a href="http://jessealtman.com/2013/09/proper-unit-test-structure-in-apex/" target="_blank">complex Test Utilities classes</a>.</p>
+<hr/>
+<p>Overall, I&#8217;d say this is a fantastic module. Some minor chances to expand, but for the most part they include some great concepts for developers new to unit testing.</p>
+<blockquote><p>I highly recommend Trailhead for everyone. Even if I called out some different things that could be expanded on, it doesn&#8217;t change my opinion that Trailhead is a fantastic tool for learning the development practices on the Force.com platform.</p></blockquote>
+<p>For more information related to Trailhead, please read the <a href="https://developer.salesforce.com/page/Trailhead_FAQ" target="_blank">Trailhead FAQ</a>.</p>
+";s:12:"link_replies";s:141:"http://jessealtman.com/2015/06/beyond-trailhead-apex-testing/#commentshttp://jessealtman.com/2015/06/beyond-trailhead-apex-testing/feed/atom/";}i:5;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:33:"Salesforce Lightning Week Rocked!";s:4:"link";s:64:"http://jessealtman.com/2015/03/salesforce-lightning-week-rocked/";s:2:"id";s:30:"http://jessealtman.com/?p=2150";s:7:"updated";s:20:"2015-03-14T14:08:42Z";s:9:"published";s:20:"2015-03-16T10:45:42Z";s:7:"summary";s:386:"There was a fantastic turn out to Salesforce Lightning Week world wide! So many people learning Lightning at once was fantastic. Watching the #golightningfast and #lightningdevweek hashtag this week has been a joy. It was even better contributing! Once again, a Salesforce global user group meetup significantly helped attendance at this month&#8217;s Lehigh Valley Salesforce [&#8230;]";s:12:"atom_content";s:4934:"<p>There was a fantastic turn out to <a href="http://jessealtman.com/2015/03/salesforce-lightning-week-begins/" target="_blank">Salesforce Lightning Week</a> world wide! So many people learning Lightning at once was fantastic. Watching the <a href="https://twitter.com/search?q=%23goLightningFast&#038;src=tyah" target="_blank">#golightningfast</a> and <a href="https://twitter.com/search?q=%23lightningdevweek&#038;src=tyah" target="_blank">#lightningdevweek</a> hashtag this week has been a joy. It was even better contributing!</p>
+<p>Once again, a Salesforce global user group meetup significantly helped attendance at this month&#8217;s <a href="http://www.meetup.com/Lehigh-Valley-Salesforce-Developer-Group/events/220513854/" target="_blank">Lehigh Valley Salesforce Developer User Group</a> (<a href="https://twitter.com/LVSFDCDUG" target="_blank">@LVSFDCDUG</a>/<a href="https://www.youtube.com/user/LVSFDCDUG" target="_blank">Youtube</a>) meeting. We had one of our best turn outs in months from all of Salesforce&#8217;s marketing, but also from some promotion from the <a href="http://www.meetup.com/Girl-Develop-It-Lehigh-Valley/events/220666361/" target="_blank">local Girl Develop It chapter</a>, a great group looking for more members! <a href="http://peterknolle.com/" target="_blank">Peter Knolle</a> (<a href="https://twitter.com/PeterKnolle" target="_blank">@peterknolle</a>) kicked off the event with the best <a href="http://www.salesforce.com/platform/services/lightning/" target="_blank">Lightning</a> presentation I have seen so far, explaining and demonstrating Lightning Connect, Lightning Process Builder, Lightning App Builder, and Lightning Components. We were incredibly fortunate to have Peter, a Force.com MVP and 6x certified Salesforce architect, presenting. He is one of the world experts on Lightning, sharing his expertise through several fantastic <a href="http://peterknolle.com/posts/" target="_blank">blog posts on his own site</a> as well as on the <a href="https://developer.salesforce.com/blogs/blog/author/pknolle" target="_blank">Salesforce Developer Blogs</a> (with more to come over the next few weeks).</p>
+<p>After food, drinks, and Peter&#8217;s presentation, we jumped directly into hands on workshops, one of my personal favorite things to do with a user group. It is always interesting when you start working with fellow Salesforce enthusiasts and start hearing their use cases for the different products, specifically Lightning this meetup. Several of our members had begun writing Lightning Components, using the Lightning Process Builder, and experimenting with Lightning Connect. On top of that, it is fun to work as a group towards learning and discovering new technology.</p>
+<p>After all of this Lightning talk, we finished the evening up with some drinks and more food at a local bar. The Lightning conversation was very active, and at the end of it, that really is the goal of these developer weeks. Let&#8217;s get more people involved and let&#8217;s keep them involved. So, what&#8217;s the next step for you?</p>
+<p>If you don&#8217;t have one, get a <a href="https://developer.salesforce.com/signup_lightningweek?d=70130000000NFJ3" target="_blank">Lightning Dev Org</a>. This is step 1, and should be followed even if you have a dev org already. These orgs come ready for Lightning development. The next step would be deciding what you want to learn first. You have:</p>
+<ul>
+<li><a href="http://developerforce.github.io/lightning-connect-tutorial/index.html" target="_blank">Lightning Connect Tutorial</a></li>
+<li><a href="http://developerforce.github.io/lightning-process-builder-tutorial/" target="_blank">Lightning Process Builder Tutorial</a></li>
+<li><a href="http://developerforce.github.io/lightning-components-tutorial/" target="_blank">Lightning Components Tutorial</a></li>
+<li><a href="https://developer.salesforce.com/trailhead/module/lightning_components" target="_blank"/>Lightning on Trailhead</a></li>
+</ul>
+<p>After you have gone through the material, start to share your work! Share your experience on Twitter, Facebook, LinkedIn, etc! Write some blog posts (if you do not have a blog, I can work with you to guest blog here or on other blogs &#8211; <a href="http://jessealtman.com/contact/" target="_blank">just contact me</a>)! Finally, make sure to continue to attend your user group. I know there is a large influx of attendees during this week, but you can get value year round from your local user group. Not only are you interacting with a larger set of people in your industry (perfect for recruiting/sales/job search), but in general you will find a ton of really smart people who will be able to teach you knew things.</p>
+<p>It is a fun, exciting time to be involved with Salesforce. How was your Salesforce Lightning Week? What meetup did you attend? What are you most excited about with Lightning? Share in the comments below!</p>
+";s:12:"link_replies";s:147:"http://jessealtman.com/2015/03/salesforce-lightning-week-rocked/#commentshttp://jessealtman.com/2015/03/salesforce-lightning-week-rocked/feed/atom/";}i:6;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:33:"Salesforce Lightning Week Begins!";s:4:"link";s:64:"http://jessealtman.com/2015/03/salesforce-lightning-week-begins/";s:2:"id";s:30:"http://jessealtman.com/?p=2142";s:7:"updated";s:20:"2015-03-09T14:27:43Z";s:9:"published";s:20:"2015-03-09T14:27:43Z";s:7:"summary";s:391:"Salesforce Lightning Week has begun! Salesforce1 Lightning provides a plethora of new functionality to the Salesforce platform, but in it&#8217;s simplest form you can think about it as the new generation of the Salesforce1 platform. What&#8217;s Happening? 100+ Salesforce Developer, User, and Non-Profit groups across the globe will be meeting during Lightning Week to experience [&#8230;]";s:12:"atom_content";s:3504:"<p><a href="https://developer.salesforce.com/developer-week" target="_blank">Salesforce Lightning Week</a> has begun! <a href="http://jessealtman.com/2014/11/what-is-salesforce1-lightning/" target="_blank">Salesforce1 Lightning provides a plethora of new functionality to the Salesforce platform</a>, but in it&#8217;s simplest form you can think about it as the new generation of the Salesforce1 platform.</p>
+<p><iframe class='youtube-player' type='text/html' width='615' height='376' src='http://www.youtube.com/embed/2JEP_CUiEAk?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+<h2>What&#8217;s Happening?</h2>
+<blockquote><p>100+ Salesforce Developer, User, and Non-Profit groups across the globe will be meeting during Lightning Week to experience first hand the power of Salesforce1 Lightning. Join a group near you for demos, training, and to meet Salesforce experts. No matter your experience level you&#8217;ll learn new tools that you can start using right away.</p></blockquote>
+<h2>Should I Attend?</h2>
+<p><strong>Yes!</strong> It is just that simple. Everyone should attend. There are so many meetings being held around the world, hopefully there is one close enough to you to make it possible. If you are a developer, learning about Lightning is important because it is going to change the way you work with Salesforce. If you are an admin, learning about Lightning is important because it is going to change the way you work with Salesforce. If you are a consultant, learning about Lightning is important because it is going to change the way you work with Salesforce. See where I am going with this? Lightning is a huge set of functionality and topics and it doesn&#8217;t pertain to any specific &#8220;role&#8221;. Lightning is bringing developers, admins, and consultants closer than ever before.</p>
+<h2>RSVP Now!</h2>
+<p>There is still time! Choose from one of the many <a href="https://developer.salesforce.com/developer-week" target="_blank">DUGs participating around the world</a>, RSVP to the event, and join the rest of us! You will enjoy it! Share your experience with the world using the <a href="https://twitter.com/hashtag/lightningdevweek?src=hash" target="_blank">#lightningdevweek hashtag</a>! If you live in the Lehigh Valley, PA area, please consider attending the <a href="http://www.meetup.com/Lehigh-Valley-Salesforce-Developer-Group/events/220513854/" target="_blank">LVSFDCDUG Meetup on March 12th at 6pm</a> with me! Have fun!</p>
+<p><iframe src="https://www.google.com/maps/d/embed?mid=zIs2P4R9hI8Q.kxp59dKpOFy8" width="615" height="461"></iframe></p>
+<h2>Get a Head Start</h2>
+<p>Once you have RSVPed to an event, get a head start learning about Lightning using <a href="https://developer.salesforce.com/trailhead" target="_blank">Trailhead</a>. There is a fantastic <a href="https://developer.salesforce.com/trailhead/module/lightning_components" target="_blank">Lightning hands-on tutorial</a> now available on Trailhead. When you are done, try some other modules on areas you may not be 100% familiar with. Also, feel free to check out some of the great <a href="https://developer.salesforce.com/trailhead" target="_blank">Lightning content being pushed to the Salesforce Developer blogs</a> on a regular basis.</p>
+<p>Have a fantastic Salesforce Lightning Week and be sure to share your experience online with others!</p>
+";s:12:"link_replies";s:147:"http://jessealtman.com/2015/03/salesforce-lightning-week-begins/#commentshttp://jessealtman.com/2015/03/salesforce-lightning-week-begins/feed/atom/";}i:7;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:25:"LVSFDCDUG: ApexMocks Talk";s:4:"link";s:56:"http://jessealtman.com/2015/02/lvsfdcdug-apexmocks-talk/";s:2:"id";s:30:"http://jessealtman.com/?p=2136";s:7:"updated";s:20:"2015-02-23T01:42:29Z";s:9:"published";s:20:"2015-02-23T11:45:46Z";s:7:"summary";s:339:"I recently gave a talk at Lehigh Valley Salesforce Developer Group (@LVSFDCDUG). For the past few meetups, we have been live streaming and recording each of the presentations on Youtube. There are several other awesome presentations on there, but please feel free to check out my recent talk on ApexMocks and my other articles on [&#8230;]";s:12:"atom_content";s:1122:"<p>I recently gave a talk at <a href="http://www.meetup.com/Lehigh-Valley-Salesforce-Developer-Group/" target="_blank">Lehigh Valley Salesforce Developer Group</a> (<a href="https://twitter.com/LVSFDCDUG" target="_blank">@LVSFDCDUG</a>). For the past few meetups, we have been live streaming and recording each of the presentations on <a href="https://www.youtube.com/user/LVSFDCDUG" target="_blank">Youtube</a>. There are several other awesome presentations on there, but please feel free to check out my recent talk on ApexMocks and <a href="http://jessealtman.com/tag/apexmocks/" target="_blank">my other articles on the topic</a>. Enjoy!</p>
+<p><iframe class='youtube-player' type='text/html' width='615' height='376' src='http://www.youtube.com/embed/HBulci-5xIs?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;start=85&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+<blockquote><p>
+<strong>Note:</strong> Apologies for recording the &#8220;presenter&#8221; view, that will be fixed for the next recording!
+</p></blockquote>
+";s:12:"link_replies";s:131:"http://jessealtman.com/2015/02/lvsfdcdug-apexmocks-talk/#commentshttp://jessealtman.com/2015/02/lvsfdcdug-apexmocks-talk/feed/atom/";}i:8;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:38:"New Spring &#8217;15 Features: Mapping";s:4:"link";s:62:"http://jessealtman.com/2015/02/new-spring-15-features-mapping/";s:2:"id";s:30:"http://jessealtman.com/?p=2120";s:7:"updated";s:20:"2015-02-08T17:41:21Z";s:9:"published";s:20:"2015-02-09T11:45:22Z";s:7:"summary";s:344:"The Spring &#8217;15 release is upon us! As with every Salesforce release, it comes with a plethora of new features. One of the cooler aspects of the Spring &#8217;15 release is the addition of some mapping functionality. Standard Address Fields Show Google Maps Records with standard address fields now display a Google Maps image of [&#8230;]";s:12:"atom_content";s:7635:"<p>The Spring &#8217;15 release is <a href="https://trust.salesforce.com/trust/maintenance/" target="_blank">upon us</a>! As with every Salesforce release, it comes with <a href="http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/salesforce_release_notes.htm" target="_blank">a plethora of new features</a>. One of the cooler aspects of the Spring &#8217;15 release is the addition of some mapping functionality.</p>
+<h2>Standard Address Fields Show Google Maps</h2>
+<blockquote><p>Records with standard address fields now display a Google Maps image of the address. This saves users time by letting them see where their contacts or accounts are located, instead of having to locate addresses in a separate browser tab.</p>
+<p>On a record, go to the detail page to see the Google Maps image on the address field. To generate a map image, an address must include the street and city fields and either the state, postal code, or the country. If an address field is missing any of the required information, a map won?t display.</p></blockquote>
+<p>Address fields will now look like:</p>
+<p><img src="http://jessealtman.com/wp-content/uploads/2015/02/maps_google_rn.png"/></p>
+<p>This feature also <a href="http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/rn_mobile_salesforce1_newfeat_maps.htm" target="_blank">works in Salesforce1</a>.</p>
+<p><img src="http://jessealtman.com/wp-content/uploads/2015/02/s1_maps.png"/></p>
+<p>This functionality will be on by default. To disable it, go to <strong>Customize | Maps and Locations | Settings</strong> and uncheck <code>Enable Maps and Location Services</code>.</p>
+<h2>Limitations Changed for Geolocation Fields (Generally Available)</h2>
+<blockquote><p>
+<a href="https://help.salesforce.com/HTViewHelpDoc?id=custom_field_geolocate_overview.htm&#038;language=en_US" target="_blank">Geolocation fields</a>, formerly available only as a beta release, are now generally available. Now you can get the most out of geolocation thanks to fewer limitations and increased functionality, including improvements in Visual Workflow, workflow updates and approvals, Apex, search tools, and more.</p>
+<p>Spring ?15 includes the following changes to geolocation field limitations.</p>
+<ul>
+<li>Geolocation fields are available in Visual Workflow and in formula-based criteria in workflow rules and approval processes, but cannot be used in filter-based criteria in workflow rules and approval processes.</li>
+<li>Geolocation fields can be searched in SOQL and SOSL.</li>
+<li><code>DISTANCE</code> formulas are supported in:
+<ul>
+<li>Entry criteria for workflow rules and approval processes</li>
+<li>Field update actions in workflow rules and approval processes</li>
+<li>Custom validation rules</li>
+</ul>
+</li>
+<li>The only formula functions that you can use with <a href="https://www.salesforce.com/developer/docs/api/Content/compound_fields_geolocation.htm" target="_blank">compound fields</a> are <code>ISBLANK</code>, <code>ISCHANGED</code>, and <code>ISNULL</code>. You can?t use <code>BLANKVALUE</code>, <code>CASE</code>, <code>NULLVALUE</code>, <code>PRIORVALUE</code>, or the equality and comparison operators with compound fields. The equality and comparison operators include = and == (equal), <> and != (not equal), < (less than), > (greater than), <= (less than or equal), >= (greater than or equal), &#038;&#038; (AND), and || (OR).</li>
+<li>Geolocation fields are now queryable in Apex. However, their locations are editable in Apex only as components of the compound field. Read and set geolocation field components by appending ?__latitude__s? or ?__longitude__s? to the field name, instead of the usual ?__c.? For example:<br />
+<pre data-enlighter-language="java" class="EnlighterJSRAW">
+Double theLatitude = myObject__c.aLocation__latitude__s; 
+myObject__c.aLocation__longitude__s = theLongitude;
+</pre>
+</li>
+</ul>
+</blockquote>
+<h2>Use Visualforce Map Components to Show Location Data More Clearly</h2>
+<p>There are two new fantastic Visualforce tags, <a href="http://www.salesforce.com/us/developer/docs/pages/Content/pages_compref_map.htm" target="_clear"><code>apex:map</code></a> and <a href="http://www.salesforce.com/us/developer/docs/pages/Content/pages_compref_mapMarker.htm" target="_clear"><code>apex:mapMarker</code></a>, that are <a href="http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/rn_vf_mapping_components.htm" target="_blank">included as part of Spring &#8217;15</a>.</p>
+<blockquote><p>
+Visualforce mapping components make it simple to create maps that use third-party mapping services. Visualforce maps are interactive, JavaScript-based maps complete with zooming, scrolling, and markers based on your Salesforce or other data. Create stand-alone map pages, maps that you can insert into page layouts, and even mobile maps for Salesforce1.</p>
+<p>Create Visualforce maps with a set of related mapping components. <apex:map> defines a map canvas, including map size, type, center point, and initial zoom level. <apex:mapMarker> child components define markers to place on the map, by address or geolocation (latitude and longitude).</p>
+<p>Maps that you define generate JavaScript code to render onto the page. This JavaScript connects to a mapping service and builds the map by fetching map tiles, placing markers, and even geocoding addresses if you don?t have a latitude and longitude. After the map renders, your users can interact with the map by panning and zooming, just like they?re used to with other popular map sites. The effect is if you wrote your own custom JavaScript to interact with a third-party mapping service, but without needing to actually write that JavaScript. You define the map in Visualforce and get the mapping JavaScript for free.
+</p></blockquote>
+<p>An example of both tags in action:</p>
+<div style="overflow-x:scroll;">
+<div style="width:1150px;">
+<pre data-enlighter-language="html" class="EnlighterJSRAW">
+&lt;apex:page standardController=&quot;Account&quot;&gt;
+	&lt;!-- This page must be accessed with an Account Id in the URL. For example: https://&lt;salesforceInstance&gt;/apex/NearbyContacts?id=001D000000JRBet --&gt;
+	&lt;apex:pageBlock&gt;
+		&lt;apex:pageBlockSection title=&quot;Contacts For {!Account.Name}&quot;&gt;
+			&lt;apex:dataList value=&quot;{!Account.Contacts}&quot; var=&quot;contact&quot;&gt;
+				&lt;apex:outputText value=&quot;{!contact.Name}&quot;/&gt;
+			&lt;/apex:dataList&gt;
+			&lt;apex:map width=&quot;600px&quot; height=&quot;400px&quot; mapType=&quot;roadmap&quot; center=&quot;{!Account.BillingStreet},{!Account.BillingCity},{!Account.BillingState}&quot;&gt;
+				&lt;apex:repeat value=&quot;{!Account.Contacts}&quot; var=&quot;contact&quot;&gt;
+					&lt;apex:mapMarker title=&quot;{!contact.Name}&quot; position=&quot;{!contact.MailingStreet},{!contact.MailingCity},{!contact.MailingState}&quot;/&gt;
+				&lt;/apex:repeat&gt;
+			&lt;/apex:map&gt;
+		&lt;/apex:pageBlockSection&gt;
+	&lt;/apex:pageBlock&gt;
+&lt;/apex:page&gt;
+</pre>
+</div>
+</div>
+<p>Result:</p>
+<p><img src="http://jessealtman.com/wp-content/uploads/2015/02/pages_maps_markers.png" width="615px"/></p>
+<h2>My Observations</h2>
+<p>Salesforce has done a fantastic job with this release of visualizing location data and making it more end user friendly. As the world becomes more and more mobile, this type of information will be very useful to have at your fingertips.</p>
+<p>Enjoy and feel free to test it out on your own <a href="https://www.salesforce.com/form/signup/prerelease-spring15.jsp" target="_blank">Spring &#8217;15 Pre-Release Org</a>!</p>
+";s:12:"link_replies";s:143:"http://jessealtman.com/2015/02/new-spring-15-features-mapping/#commentshttp://jessealtman.com/2015/02/new-spring-15-features-mapping/feed/atom/";}i:9;a:11:{s:6:"author";s:17:"
+			
+						
+					";s:11:"author_name";s:12:"Jesse Altman";s:10:"author_uri";s:22:"http://jessealtman.com";s:5:"title";s:41:"Spring &#8217;15 Feature: Apex Flex Queue";s:4:"link";s:65:"http://jessealtman.com/2015/02/spring-15-feature-apex-flex-queue/";s:2:"id";s:30:"http://jessealtman.com/?p=2109";s:7:"updated";s:20:"2015-02-02T00:33:07Z";s:9:"published";s:20:"2015-02-02T11:45:14Z";s:7:"summary";s:309:"The Spring &#8217;15 release is approaching quickly! As with every Salesforce release, it comes with a plethora of new features. Over the next few weeks, I am going to outline what I find to be some of the cooler features. Apex Flex Queue One of the nicest features of Spring &#8217;15 in my mind is [&#8230;]";s:12:"atom_content";s:4685:"<p>The Spring &#8217;15 release is <a href="https://trust.salesforce.com/trust/maintenance/" target="_blank">approaching quickly</a>! As with every Salesforce release, it comes with <a href="http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/salesforce_release_notes.htm" target="_blank">a plethora of new features</a>. Over the next few weeks, I am going to outline what I find to be some of the cooler features.</p>
+<h2>Apex Flex Queue</h2>
+<p>One of the nicest features of Spring &#8217;15 in my mind is <a href="http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/rn_apex_flex_queue_ga.htm" target="_blank">Apex Flex Queue</a>. From the release notes:</p>
+<blockquote><p>Submit up to 100 batch jobs simultaneously and actively manage the order of the queued jobs to control which batch jobs are processed first. This enhancement provides you more flexibility in managing your batch jobs.</p>
+<p>Previously, you could submit only up to five batch jobs simultaneously. The Apex flex queue enables you to submit up to 100 additional batch jobs for execution. Any jobs that are submitted for execution are in holding status and are placed in the Apex flex queue. Up to 100 batch jobs can be in the holding status. When system resources become available, the system picks up jobs from the top of the Apex flex queue and moves them to the batch job queue. The system can process up to five queued or active jobs simultaneously. The status of these moved jobs changes from Holding to Queued. Queued jobs get executed when the system is ready to process new jobs.</p>
+<p>Administrators can modify the order of jobs that are held in the Apex flex queue to control when they get processed by the system. For example, administrators can move a batch job up to the first position in the holding queue so that it?s the first job that gets processed when the system fetches the next held job from the flex queue. Without administrator intervention, jobs are processed first-in first-out?in the order in which they?re submitted. To monitor and reorder held batch jobs in the Salesforce user interface, from Setup click Jobs | Apex Flex Queue.</p></blockquote>
+<h2>My Observations</h2>
+<p>This is awesome! Being able to queue up 100 jobs rather than 5 is a huge difference (that is a 2000% increase)! The important thing to note about this change is the addition of the <code>Holding</code> status. From the release notes:</p>
+<blockquote><p>
+The <a href="http://www.salesforce.com/us/developer/docs/object_reference/index_CSH.htm#sforce_api_objects_asyncapexjob.htm" target="_blank"><code>AsyncApexJob</code></a> object, which represents a batch job, has a new Status field value of <code>Holding</code>. This new status indicates that the job is placed in the flex queue and is waiting to be processed when system resources become available.
+</p></blockquote>
+<p>This aspect of the change is crucial. It doesn&#8217;t matter what version of Apex your code runs against, it needs to be able to support this new status. Specifically, this affects all queries against the <code>AsyncApexJob</code>. Take for instance (prior to Spring &#8217;15):</p>
+<div style="overflow-x:scroll;">
+<div style="width:700px;">
+<pre data-enlighter-language="sql" class="EnlighterJSRAW">
+List&lt;AsyncApexJob&gt; existingJobs = [
+	SELECT Id, Status, CreatedBy.Name, CreatedDate 
+	FROM AsyncApexJob 
+	WHERE (Status = &#039;Queued&#039; or Status = &#039;Processing&#039; or Status = &#039;Preparing&#039;) 
+	AND ApexClass.Name = &#039;TestBatchClass&#039; 
+];
+</pre>
+</div>
+</div>
+<p>This query would have found all existing batch jobs for the <code>TestBatchClass</code> prior to Spring &#8217;15. However, due to the addition of the new <code>Holding</code> status, this no longer finds all of the existing jobs. This query needs to be modified slightly to:</p>
+<div style="overflow-x:scroll;">
+<div style="width:800px;">
+<pre data-enlighter-language="sql" class="EnlighterJSRAW">
+List&lt;AsyncApexJob&gt; existingJobs = [
+	SELECT Id, Status, CreatedBy.Name, CreatedDate 
+	FROM AsyncApexJob 
+	WHERE (Status = &#039;Queued&#039; or Status = &#039;Processing&#039; or Status = &#039;Preparing&#039; or Status = &#039;Holding&#039;) 
+	AND ApexClass.Name = &#039;TestBatchClass&#039; 
+];
+</pre>
+</div>
+</div>
+<p>As mentioned before, different than most changes to Apex, this is a data change. It requires code running on previous versions to take into account the proper Status values.</p>
+<p>Enjoy and feel free to test it out on your own <a href="https://www.salesforce.com/form/signup/prerelease-spring15.jsp" target="_blank">Spring &#8217;15 Pre-Release Org</a>!</p>
+";s:12:"link_replies";s:149:"http://jessealtman.com/2015/02/spring-15-feature-apex-flex-queue/#commentshttp://jessealtman.com/2015/02/spring-15-feature-apex-flex-queue/feed/atom/";}}s:7:"channel";a:7:{s:5:"title";s:12:"Jesse Altman";s:8:"subtitle";s:21:"Salesforce Enthusiast";s:7:"updated";s:20:"2017-07-30T16:03:01Z";s:4:"link";s:22:"http://jessealtman.com";s:2:"id";s:33:"http://jessealtman.com/feed/atom/";s:9:"link_self";s:33:"http://jessealtman.com/feed/atom/";s:9:"generator";s:9:"WordPress";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:4:"Atom";s:12:"feed_version";N;s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:15:"source_encoding";s:5:"UTF-8";s:4:"etag";s:36:""d23677f3875f1c6effe10de6f86c4dce"
+";}
