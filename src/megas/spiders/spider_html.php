@@ -10,7 +10,7 @@ function spider_html ($url, $id){
     if ($id_domain == 23508) {
        print "Facebook {$id_domain} {$url}".PHP_EOL;
        $url = make_url($id);
-       db_exec_query("insert into ms_social (id_url, nm_url, kd_type) values (".$id.", '".$url."', 1)");
+       db_exec_query("insert into ms_social (id_url, nm_url, kd_type, guid) values (".$id.", '".$url."', 1, UUID())");
     }
     else {// Get html by URL
         $html = file_get_html($url);
