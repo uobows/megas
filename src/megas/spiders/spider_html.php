@@ -6,7 +6,7 @@ function spider_html ($url, $id){
     $keywords = '';
 
     $id_domain = db_get1_query("select id_domain u from ms_url u where id = ".$id);
-    print "Facebook {$id_domain} {$url}".PHP_EOL;
+
     if ($id_domain == 23508) {
        print "Facebook {$id_domain} {$url}".PHP_EOL;
        $url = make_url($id);
