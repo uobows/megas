@@ -48,7 +48,7 @@ do {
         $domain = $row["id_domain"];
         $num = $row["visited"];
         $id = $row["id"];
-        $locked = db_insert_query("insert into ms_url_locked (id_url, type) values(".$row["id"].", 1)");
+        $locked = db_insert_query("insert into ms_url_locked (id_url, type) values(".$id.", 1)");
         $parsed = $row["parsed"];
         $state = 0;
         print "URL in progress: {$url}";
@@ -118,11 +118,11 @@ do {
                 if ($http_code == 200) { spider_audiostream($url, $id);}
                 break;
             }
-            if ((get_crawl_rule($domain, $path, $type) == 1)) {	 
-                $r = db_exec_query("insert into ms_global_queue (id_url, type) values(".$id.", 2)");
-            }
+            //if ((get_crawl_rule($domain, $path, $type) == 1)) {	 
+            //    $r = db_exec_query("insert into ms_global_queue (id_url, type) values(".$id.", 2)");
+            //}
         }
-        $locked = db_exec_query("delete from ms_url_locked where id_url = ".$row["id"]." and type = 1");
+        $locked = db_exec_query("delete from ms_url_locked where id_url = ".$id." and type = 1");
 
     }
     mysqli_free_result($result);
