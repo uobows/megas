@@ -7,8 +7,8 @@ function spider_rss ($url, $id){
 			$desc = str_replace('"', '', $rss->channel['description']);
 			$link = $rss->channel['link'];
             print "Channel found: {$title}".PHP_EOL;
-			$query  = 'insert into ms_rss_channel (id_origin_url, title';
-			$values =  ' values ('.$id.', "'.trim($title).'"';
+			$query  = 'insert into ms_rss_channel (guid, id_origin_url, title';
+			$values =  ' values (uuid(), '.$id.', "'.trim($title).'"';
 			if (!empty($desc)) {
 				$query = $query.', description';
 				$values = $values.', "'.$desc.'"';
